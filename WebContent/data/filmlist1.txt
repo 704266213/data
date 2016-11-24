@@ -2,7 +2,7 @@
     "state": 200,
     "message": "success",
     "result": {
-        "banner": [
+        "bannerModels": [
             {
                 "webUrl": "https://www.baidu.com",
                 "bannerImageUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/banner1.png"
@@ -20,63 +20,63 @@
                 "bannerImageUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/banner4.png"
             }
         ],
-        "filmList": [
+        "filmModels": [
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/1.png",
-                "filmName": "º½º£ÍõÖ®»Æ½ð³Ç",
+                "filmName": "èˆªæµ·çŽ‹ä¹‹é»„é‡‘åŸŽ",
                 "filmScore": "8.8",
-                "filmDesc": "º½º£ÐÂÕ÷³Ì£¬Â··ÉPK»Æ½ðµÛ",
-                "filmActor": "º½º£ÍõÒ»»ïÀ´µ½ÁËÊÀ½çÉÏ×î´óµÄÓéÀÖ³Ç¡°´óÔË÷ÂÞºÅ¡±¡£ÕâÀïÔÆ¼¯ÁËÈ«ÊÀ½çµÄ¸»ºÀÃÇ£¬²»Ãß²»ÐÝµØÏíÊÜ×Å¸÷É«±íÑÝºÍÓéÀÖÏîÄ¿¡£"
+                "filmDesc": "èˆªæµ·æ–°å¾ç¨‹ï¼Œè·¯é£žPKé»„é‡‘å¸",
+                "filmActor": "èˆªæµ·çŽ‹ä¸€ä¼™æ¥åˆ°äº†ä¸–ç•Œä¸Šæœ€å¤§çš„å¨±ä¹åŸŽâ€œå¤§å¾³ç´¢ç½—å·â€ã€‚è¿™é‡Œäº‘é›†äº†å…¨ä¸–ç•Œçš„å¯Œè±ªä»¬ï¼Œä¸çœ ä¸ä¼‘åœ°äº«å—ç€å„è‰²è¡¨æ¼”å’Œå¨±ä¹é¡¹ç›®ã€‚"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/yourname.png",
-                "filmName": "ÄãµÄÃû×Ö",
+                "filmName": "ä½ çš„åå­—",
                 "filmScore": "9.7",
-                "filmDesc": "×îÀäµÄ¶¬Ìì£¬×îÅ¯µÄÏàÓö",
-                "filmActor": "ÉñÄ¾Â¡Ö®½é,ÉÏ°×Ê¯ÃÈÒô,³¤ÔóÑÅÃÀ,ÊÐÔ­ÔÃ×Ó,³ÉÌïÁè,ÓÆÄ¾±Ì,Ê¯´¨½çÈË,¹È»¨Òô"
+                "filmDesc": "æœ€å†·çš„å†¬å¤©ï¼Œæœ€æš–çš„ç›¸é‡",
+                "filmActor": "ç¥žæœ¨éš†ä¹‹ä»‹,ä¸Šç™½çŸ³èŒéŸ³,é•¿æ³½é›…ç¾Ž,å¸‚åŽŸæ‚¦å­,æˆç”°å‡Œ,æ‚ æœ¨ç¢§,çŸ³å·ç•Œäºº,è°·èŠ±éŸ³"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/2.png",
-                "filmName": "ÃûÕìÌ½¿ÂÄÏ£º´¿ºÚµÄ¶ñÃÎ",
+                "filmName": "åä¾¦æŽ¢æŸ¯å—ï¼šçº¯é»‘çš„æ¶æ¢¦",
                 "filmScore": "7.5",
-                "filmDesc": "¿ÂÄÏÏµÁÐ20Äê£¬·´ÅÉÈ«Ô±³ö¶¯",
-                "filmActor": "ÔÚÄ³¸öÆáºÚµÄÒ¹Íí£¬Ãé×¼ÁË»úÃÜ×ÊÁÏµÄ¼äµýÇÖÈëÈÕ±¾¾¯²ì»ú¹¹¡£ÈÕ±¾¹«°²¡¢FBI£¨ÃÀ¹úÁª°îµ÷²é¾Ö£©¡¢ºÚÒÂ×éÖ¯¼°¿ÂÄÏµÈÈËÎ§ÈÆ±³ÅÑÓëËÞÃü¶øÕ¹¿ªËÞÃü¶Ô¾ö¡£"
+                "filmDesc": "æŸ¯å—ç³»åˆ—20å¹´ï¼Œåæ´¾å…¨å‘˜å‡ºåŠ¨",
+                "filmActor": "åœ¨æŸä¸ªæ¼†é»‘çš„å¤œæ™šï¼Œçž„å‡†äº†æœºå¯†èµ„æ–™çš„é—´è°ä¾µå…¥æ—¥æœ¬è­¦å¯Ÿæœºæž„ã€‚æ—¥æœ¬å…¬å®‰ã€FBIï¼ˆç¾Žå›½è”é‚¦è°ƒæŸ¥å±€ï¼‰ã€é»‘è¡£ç»„ç»‡åŠæŸ¯å—ç­‰äººå›´ç»•èƒŒå›ä¸Žå®¿å‘½è€Œå±•å¼€å®¿å‘½å¯¹å†³ã€‚"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/3.png",
-                "filmName": "º£ÑóÆæÔµ",
+                "filmName": "æµ·æ´‹å¥‡ç¼˜",
                 "filmScore": "5.0",
-                "filmDesc": "ÍÁÖøÉÙÅ®Ð¯¶ºÈ¤°ëÉñ£¬Ñï·«ÀúÏÕ",
-                "filmActor": "ÔÚ2000ÄêÇ°µÄÄÏÌ«Æ½ÑóÐ¡µºÉÏ£¬ÄÇÀï¾Ó×¡×ÅÒ»¸ö°®ºÃº½º£µÄ²¨ÀïÄáÎ÷ÑÇÈË²¿Âä£¬²¿ÂäÇõ³¤ÓÐÒ»¸ö¶ÀÉúÅ®½ÐÄ¦ÍßÄÈ¡¤ÍßÀï»ù£¨°ÂÒÁÒÁ¡¤¿¨ÍßÂÔ ÅäÒô£©£¬ÔÚ×æÄ¸µÄ¹ÄÀøÏÂËýÒ»ÐÄÏëÈ¥Ì½Ë÷ÁÙ½üµÄ..."
+                "filmDesc": "åœŸè‘—å°‘å¥³æºé€—è¶£åŠç¥žï¼Œæ‰¬å¸†åŽ†é™©",
+                "filmActor": "åœ¨2000å¹´å‰çš„å—å¤ªå¹³æ´‹å°å²›ä¸Šï¼Œé‚£é‡Œå±…ä½ç€ä¸€ä¸ªçˆ±å¥½èˆªæµ·çš„æ³¢é‡Œå°¼è¥¿äºšäººéƒ¨è½ï¼Œéƒ¨è½é…‹é•¿æœ‰ä¸€ä¸ªç‹¬ç”Ÿå¥³å«æ‘©ç“¦å¨œÂ·ç“¦é‡ŒåŸºï¼ˆå¥¥ä¼Šä¼ŠÂ·å¡ç“¦ç•¥ é…éŸ³ï¼‰ï¼Œåœ¨ç¥–æ¯çš„é¼“åŠ±ä¸‹å¥¹ä¸€å¿ƒæƒ³åŽ»æŽ¢ç´¢ä¸´è¿‘çš„..."
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/4.png",
-                "filmName": "´ÓÄãµÄÈ«ÊÀ½çÂ·¹ý ",
+                "filmName": "ä»Žä½ çš„å…¨ä¸–ç•Œè·¯è¿‡ ",
                 "filmScore": "8.0",
-                "filmDesc": "ÎÒ¾ÍÔÚÖÕµãµÈÄã£¬½áÎ²ÓÐ²Êµ°",
-                "filmActor": "µË³¬,°×°ÙºÎ,ÑîÑó,ÕÅÌì°®,ÔÀÔÆÅô,¶Å¾é,ÁøÑÒ"
+                "filmDesc": "æˆ‘å°±åœ¨ç»ˆç‚¹ç­‰ä½ ï¼Œç»“å°¾æœ‰å½©è›‹",
+                "filmActor": "é‚“è¶…,ç™½ç™¾ä½•,æ¨æ´‹,å¼ å¤©çˆ±,å²³äº‘é¹,æœé¹ƒ,æŸ³å²©"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/5.png",
-                "filmName": "ÏÄÍþÒÄÖ®Áµ ",
+                "filmName": "å¤å¨å¤·ä¹‹æ‹ ",
                 "filmScore": "4.0",
-                "filmDesc": "³ÂåûÏ£¿ç¹úÁµ£¬ÔÚ¼ÇÒäÖÐÖØÕÒÄã",
-                "filmActor": "³ÂåûÏ£,½ª³É¸ä,ºàÀû¡¤ÒÁ°²¡¤¿âË¹¿Ë,½Ü¿ËÑ·¡¤À­Ë¹²¨¶÷"
+                "filmDesc": "é™ˆå¦å¸Œè·¨å›½æ‹ï¼Œåœ¨è®°å¿†ä¸­é‡æ‰¾ä½ ",
+                "filmActor": "é™ˆå¦å¸Œ,å§œæˆé•,äº¨åˆ©Â·ä¼Šå®‰Â·åº“æ–¯å…‹,æ°å…‹é€ŠÂ·æ‹‰æ–¯æ³¢æ©"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/6.png",
-                "filmName": "³¤³Ç ",
+                "filmName": "é•¿åŸŽ ",
                 "filmScore": "4.5",
-                "filmDesc": "ÓÉÂíÌØ¡¤´ïÃÉÊÎÑÝµÄÅ·ÖÞ¹ÍÓ¶±øÍþÁ®ÔÚ±»Çô½û³¤³ÇÆÚ¼ä£¬·¢ÏÖÁËÕâÒ»ÊÀ¼ä×î´óÆæ¼£Ö®Ò»±³ºóµÄ¾ªÈËÃØÃÜ¡£µ±Ò»²¨ÓÖÒ»²¨¿ÉÅÂµÄÂÓÊ³ÉúÎï½«Õâ×ù¾ÞÐÍ³ÇÇ½ÖØÖØÎ§À§Ö®Ê±£¬",
-                "filmActor": "ÂíÌØ¡¤´ïÃÉ,¾°Ìð,ÅåµÂÂÞ¡¤ÅÁË¹¿¨,ÍþÁ®¡¤´ï¸£,ÁõµÂ»ª,ÕÅº­Óè"
+                "filmDesc": "ç”±é©¬ç‰¹Â·è¾¾è’™é¥°æ¼”çš„æ¬§æ´²é›‡ä½£å…µå¨å»‰åœ¨è¢«å›šç¦é•¿åŸŽæœŸé—´ï¼Œå‘çŽ°äº†è¿™ä¸€ä¸–é—´æœ€å¤§å¥‡è¿¹ä¹‹ä¸€èƒŒåŽçš„æƒŠäººç§˜å¯†ã€‚å½“ä¸€æ³¢åˆä¸€æ³¢å¯æ€•çš„æŽ é£Ÿç”Ÿç‰©å°†è¿™åº§å·¨åž‹åŸŽå¢™é‡é‡å›´å›°ä¹‹æ—¶ï¼Œ",
+                "filmActor": "é©¬ç‰¹Â·è¾¾è’™,æ™¯ç”œ,ä½©å¾·ç½—Â·å¸•æ–¯å¡,å¨å»‰Â·è¾¾ç¦,åˆ˜å¾·åŽ,å¼ æ¶µäºˆ"
             }
             ,
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/7.png",
-                "filmName": "¶áÂ·¶øÌÓ  ",
+                "filmName": "å¤ºè·¯è€Œé€ƒ  ",
                 "filmScore": "5.6",
-                "filmDesc": "ÕÅÒ»É½¿çÊ±¿ÕÁÃÃÃ£¬É½ºÓcpÓÐ°®",
-                "filmActor": "ÕÅÒ»É½,ÆÓºÓÐû,ºÎÔÆÎ°,ÀîÝ¼"
+                "filmDesc": "å¼ ä¸€å±±è·¨æ—¶ç©ºæ’©å¦¹ï¼Œå±±æ²³cpæœ‰çˆ±",
+                "filmActor": "å¼ ä¸€å±±,æœ´æ²³å®£,ä½•äº‘ä¼Ÿ,æŽè"
             }
         ]
     }
