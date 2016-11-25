@@ -51,21 +51,21 @@
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/4.png",
-                "filmName": "从你的全世界路过 ",
+                "filmName": "从你的全世界路过",
                 "filmScore": "8.0",
                 "filmDesc": "我就在终点等你，结尾有彩蛋",
                 "filmActor": "邓超,白百何,杨洋,张天爱,岳云鹏,杜鹃,柳岩"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/5.png",
-                "filmName": "夏威夷之恋 ",
+                "filmName": "夏威夷之恋",
                 "filmScore": "4.0",
                 "filmDesc": "陈妍希跨国恋，在记忆中重找你",
                 "filmActor": "陈妍希,姜成镐,亨利·伊安·库斯克,杰克逊·拉斯波恩"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/6.png",
-                "filmName": "长城 ",
+                "filmName": "长城",
                 "filmScore": "4.5",
                 "filmDesc": "由马特·达蒙饰演的欧洲雇佣兵威廉在被囚禁长城期间，发现了这一世间最大奇迹之一背后的惊人秘密。当一波又一波可怕的掠食生物将这座巨型城墙重重围困之时，",
                 "filmActor": "马特·达蒙,景甜,佩德罗·帕斯卡,威廉·达福,刘德华,张涵予"
@@ -73,56 +73,56 @@
             ,
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/7.png",
-                "filmName": "夺路而逃  ",
+                "filmName": "夺路而逃",
                 "filmScore": "5.6",
                 "filmDesc": "张一山跨时空撩妹，山河cp有爱",
                 "filmActor": "张一山,朴河宣,何云伟,李菁"
             },
              {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/8.jpg",
-                "filmName": "三少爷的剑 ",
+                "filmName": "三少爷的剑",
                 "filmScore": "7.7",
                 "filmDesc": "神剑山庄三少爷谢晓峰（林更新饰）惊才绝艳，十年来历经上千大战未尝一败，被天下人尊为“剑神”。传奇剑客燕十三（何润东饰）一直以谢晓峰为目标，苦修剑道，终于在生死边缘悟出惊天... ",
                 "filmActor": "林更新,何润东,蒋梦婕,江一燕"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/9.jpg",
-                "filmName": "佩小姐的奇幻城堡 ",
+                "filmName": "佩小姐的奇幻城堡",
                 "filmScore": "8.7",
                 "filmDesc": "暗黑童话，怪奇孤儿展异能",
                 "filmActor": "爱娃·格林,阿沙·巴特菲尔德,塞缪尔·杰克逊"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/10.jpg",
-                "filmName": "阿拉丁与神灯 ",
+                "filmName": "阿拉丁与神灯",
                 "filmScore": "4.5",
                 "filmDesc": "笨贼入孩子窝，被迫编故事",
                 "filmActor": "凯文·亚当斯,让-保罗·卢弗,凡妮莎·吉德,奥黛丽·拉米,勒布吉尔·威廉,埃里克·朱多尔,亚瑟·本扎昆,朗兹·贝迪"
             },
             {
-                "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/11.png",
-                "filmName": "勇士之门 ",
+                "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/11.jpg",
+                "filmName": "勇士之门",
                 "filmScore": "5.0",
                 "filmDesc": "热爱游戏的男孩机缘巧合下误入异世界，随即便被卷入风暴漩涡的中心：与身负国运的公主（倪妮 饰）为友，与身手高强的武士（赵又廷 饰）为伴，与凶狠残暴的胡王为敌，前路上胡人大营..",
                 "filmActor": "赵又廷,倪妮,尤赖亚·谢尔顿,吴镇宇,戴夫·巴蒂斯塔"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/12.jpg",
-                "filmName": "神奇动物在哪里  ",
+                "filmName": "神奇动物在哪里",
                 "filmScore": "9.0",
                 "filmDesc": "哈利波特外传，魔法世界来袭",
                 "filmActor": "埃迪·雷德梅恩,凯瑟琳·沃特森,艾莉森·苏朵儿,丹·福勒"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/13.jpg",
-                "filmName": "冲天火  ",
+                "filmName": "冲天火",
                 "filmScore": "6.0",
                 "filmDesc": "两岸三地合拍，激战香港夺秘药",
                 "filmActor": "吴彦祖,张若昀,张静初,郭采洁,张孝全,樊光耀,黎耀祥,姜皓文,张兆辉,英巴图"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/14.jpg",
-                "filmName": "食人岛 ",
+                "filmName": "食人岛",
                 "filmScore": "6.5",
                 "filmDesc": "诅咒岛屿，食人生物",
                 "filmActor": "娄淇,杨凯迪,谢波,吴荻,杨迪,金晶"
@@ -130,7 +130,7 @@
             ,
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/15.jpg",
-                "filmName": "大闹天竺 ",
+                "filmName": "大闹天竺",
                 "filmScore": "8.6",
                 "filmDesc": "王宝强导演处女作，印度大冒险",
                 "filmActor": "王宝强,白客,柳岩,岳云鹏"
