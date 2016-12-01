@@ -2,7 +2,7 @@
     "state": 200,
     "message": "success",
     "result": {
-        "filmList": [
+        "filmModels": [
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/8.jpg",
                 "filmName": "三少爷的剑 ",
