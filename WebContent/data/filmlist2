@@ -5,60 +5,58 @@
         "filmList": [
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/8.jpg",
-                "filmName": "����ү�Ľ� ",
+                "filmName": "三少爷的剑 ",
                 "filmScore": "7.7",
-                "filmDesc": "��ɽׯ����үл���壨�ָ����Σ����ž��ޣ�ʮ����������ǧ��սδ��һ�ܣ�����������Ϊ�����񡱡����潣����ʮ���������Σ�һֱ��л����ΪĿ�꣬���޽�����������������Ե�������... ",
-                "filmActor": "�ָ���,����,�����,��һ��"
+                "filmDesc": "神剑山庄三少爷谢晓峰（林更新饰）惊才绝艳，十年来历经上千大战未尝一败，被天下人尊为“剑神”。传奇剑客燕十三（何润东饰）一直以谢晓峰为目标，苦修剑道，终于在生死边缘悟出惊天... ",
+                "filmActor": "林更新,何润东,蒋梦婕,江一燕"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/9.jpg",
-                "filmName": "��С�����óǱ� ",
+                "filmName": "佩小姐的奇幻城堡 ",
                 "filmScore": "8.7",
-                "filmDesc": "����ͯ��������¶�չ����",
-                "filmActor": "���ޡ�����,��ɳ�����طƶ���,���Ѷ����ܿ�ѷ"
+                "filmDesc": "暗黑童话，怪奇孤儿展异能",
+                "filmActor": "爱娃·格林,阿沙·巴特菲尔德,塞缪尔·杰克逊"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/10.jpg",
-                "filmName": "����������� ",
+                "filmName": "阿拉丁与神灯 ",
                 "filmScore": "4.5",
-                "filmDesc": "�����뺢���ѣ����ȱ����",
-                "filmActor": "���ġ��ǵ�˹,��-���ޡ�¬��,����ɯ������,������������,�ղ�����������,����ˡ�����,��ɪ��������,���ȡ�����"
+                "filmDesc": "笨贼入孩子窝，被迫编故事",
+                "filmActor": "凯文·亚当斯,让-保罗·卢弗,凡妮莎·吉德,奥黛丽·拉米,勒布吉尔·威廉,埃里克·朱多尔,亚瑟·本扎昆,朗兹·贝迪"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/11.png",
-                "filmName": "��ʿ֮�� ",
+                "filmName": "勇士之门 ",
                 "filmScore": "5.0",
-                "filmDesc": "�Ȱ���Ϸ���к���Ե�ɺ������������磬�漴�㱻����籩���е����ģ����������˵Ĺ��������� �Σ�Ϊ�ѣ������ָ�ǿ����ʿ������͢ �Σ�Ϊ�飬���׺ݲб��ĺ���Ϊ�У�ǰ·�Ϻ��˴�Ӫ..",
-                "filmActor": "����͢,����,�����ǡ�л����,������,���򡤰͵�˹��"
+                "filmDesc": "热爱游戏的男孩机缘巧合下误入异世界，随即便被卷入风暴漩涡的中心：与身负国运的公主（倪妮 饰）为友，与身手高强的武士（赵又廷 饰）为伴，与凶狠残暴的胡王为敌，前路上胡人大营..",
+                "filmActor": "赵又廷,倪妮,尤赖亚·谢尔顿,吴镇宇,戴夫·巴蒂斯塔"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/12.jpg",
-                "filmName": "���涯��������  ",
+                "filmName": "神奇动物在哪里  ",
                 "filmScore": "9.0",
-                "filmDesc": "���������⴫��ħ��������Ϯ",
-                "filmActor": "���ϡ��׵�÷��,��ɪ�ա�����ɭ,����ɭ���ն��,��������"
+                "filmDesc": "哈利波特外传，魔法世界来袭",
+                "filmActor": "埃迪·雷德梅恩,凯瑟琳·沃特森,艾莉森·苏朵儿,丹·福勒"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/13.jpg",
-                "filmName": "�����  ",
+                "filmName": "冲天火  ",
                 "filmScore": "6.0",
-                "filmDesc": "�������غ��ģ���ս��۶���ҩ",
-                "filmActor": "������,������,�ž���,���ɽ�,��Тȫ,����ҫ,��ҫ��,�����,���׻�,Ӣ��ͼ"
+                "filmDesc": "两岸三地合拍，激战香港夺秘药",
+                "filmActor": "吴彦祖,张若昀,张静初,郭采洁,张孝全,樊光耀,黎耀祥,姜皓文,张兆辉,英巴图"
             },
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/14.jpg",
-                "filmName": "ʳ�˵� ",
+                "filmName": "食人岛 ",
                 "filmScore": "6.5",
-                "filmDesc": "���䵺�죬ʳ������",
-                "filmActor": "¦�,���,л��,��ݶ,���,��"
-            }
-            ,
-            {
+                "filmDesc": "诅咒岛屿，食人生物",
+                "filmActor": "娄淇,杨凯迪,谢波,吴荻,杨迪,金晶"
+            },{
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/15.jpg",
-                "filmName": "�������� ",
+                "filmName": "大闹天竺 ",
                 "filmScore": "8.6",
-                "filmDesc": "����ǿ���ݴ�Ů����ӡ�ȴ�ð��",
-                "filmActor": "����ǿ,�׿�,����,������"
+                "filmDesc": "王宝强导演处女作，印度大冒险",
+                "filmActor": "王宝强,白客,柳岩,岳云鹏"
             }
         ]
     }
