@@ -32,7 +32,7 @@
                 "filmActor": "倪妮,霍建华,王大陆,马苏"
             },
             {
-                "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/19.png",
+                "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/19.jpg",
                 "filmName": "间谍同盟 ",
                 "filmScore": "9.0",
                 "filmDesc": "冲奥大热门，皮特风采依旧",
