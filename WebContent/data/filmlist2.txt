@@ -2,7 +2,7 @@
     "state": 200,
     "message": "success",
     "result": {
-        "filmList": [
+        "filmModels": [
             {
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/15.jpg",
                 "filmName": "大闹天竺 ",
