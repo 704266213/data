@@ -1,0 +1,22 @@
+{
+    "state": 200,
+    "message": "success",
+    "result": {       
+        "filmModels": [       
+            {
+                "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/15.jpg",
+                "filmName": "大闹天竺 ",
+                "filmScore": "8.6",
+                "filmDesc": "王宝强导演处女作，印度大冒险",
+                "filmActor": "王宝强,白客,柳岩,岳云鹏"
+            },
+            {
+                "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/16.jpg",
+                "filmName": "极速之巅  ",
+                "filmScore": "4.5",
+                "filmDesc": "为救爱人，小伙踏上亡命路",
+                "filmActor": "尼古拉斯·霍尔特,菲丽希缇·琼斯,安东尼·霍普金斯,本·金斯利"
+            }           
+        ]
+    }
+}
