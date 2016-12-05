@@ -4,6 +4,7 @@
     "result": {
         "filmModels": [
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/15.jpg",
                 "filmName": "大闹天竺 ",
                 "filmScore": "8.6",
@@ -11,6 +12,7 @@
                 "filmActor": "王宝强,白客,柳岩,岳云鹏"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/16.jpg",
                 "filmName": "极速之巅  ",
                 "filmScore": "4.5",
@@ -18,6 +20,7 @@
                 "filmActor": "尼古拉斯·霍尔特,菲丽希缇·琼斯,安东尼·霍普金斯,本·金斯利"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/17.jpg",
                 "filmName": "超级快递 ",
                 "filmScore": "8.0",
@@ -25,6 +28,7 @@
                 "filmActor": "陈赫,宋智孝,大卫·贝尔,肖央"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/18.jpg",
                 "filmName": "28岁未成年",
                 "filmScore": "7.5",
@@ -32,6 +36,7 @@
                 "filmActor": "倪妮,霍建华,王大陆,马苏"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/19.jpg",
                 "filmName": "间谍同盟 ",
                 "filmScore": "9.0",
@@ -39,6 +44,7 @@
                 "filmActor": "布拉德·皮特,玛丽昂·歌迪亚,马修·古迪,杰瑞德·哈里斯,丽兹·卡潘"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/20.jpg",
                 "filmName": "血战钢锯岭  ",
                 "filmScore": "6.0",
@@ -46,6 +52,7 @@
                 "filmActor": "安德鲁·加菲尔德,雨果·维文,卢克·布雷西,泰莉莎·帕尔墨,文斯·沃恩,萨姆·沃辛顿"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/21.jpg",
                 "filmName": "我不是潘金莲",
                 "filmScore": "6.0",
@@ -53,6 +60,7 @@
                 "filmActor": "范冰冰,郭涛,董成鹏,张嘉译,于和伟"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/22.jpg",
                 "filmName": "萨利机长 ",
                 "filmScore": "6.5",
@@ -60,6 +68,7 @@
                 "filmActor": "汤姆·汉克斯"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/23.jpg",
                 "filmName": "沙漠之心 ",
                 "filmScore": "7.5",
@@ -67,6 +76,7 @@
                 "filmActor": "隋咏良,李雷,薛祺,尤靖茹"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/24.jpg",
                 "filmName": "比利·林恩的中场战事",
                 "filmScore": "4.5",
@@ -74,6 +84,7 @@
                 "filmActor": "乔·阿尔文,克里斯汀·斯图尔特,加内特·赫德兰,克里斯·塔克"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/25.jpg",
                 "filmName": "奇异博士",
                 "filmScore": "5.5",
@@ -81,6 +92,7 @@
                 "filmActor": "本尼迪克特·康伯巴奇,蒂尔达·斯文顿,切瓦特·埃加福特,瑞秋·麦克亚当斯,麦斯·米科尔森,本尼迪特·王"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/26.jpg",
                 "filmName": "最萌身高差",
                 "filmScore": "3.5",
@@ -88,6 +100,7 @@
                 "filmActor": "高以翔,秦晓飞,王水林,范湉湉,九孔"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/27.jpg",
                 "filmName": "老腔 ",
                 "filmScore": "6.5",
@@ -95,6 +108,7 @@
                 "filmActor": "李梦,李彧,任山"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/28.jpg",
                 "filmName": "爱你的人",
                 "filmScore": "7.5",
@@ -102,6 +116,7 @@
                 "filmActor": "郑昊,张墨锡,赵梓源,王佳琦"
             },
             {
+                "releaseDate": "2016-12-30 周五",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/29.jpg",
                 "filmName": "东宫皇子 ",
                 "filmScore": "8.2",
