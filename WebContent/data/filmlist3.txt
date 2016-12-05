@@ -4,6 +4,7 @@
     "result": {
         "filmModels": [
             {
+                "releaseDate": "2016-12-31 周六",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/30.jpg",
                 "filmName": "我是处女座",
                 "filmScore": "8.6",
@@ -11,6 +12,7 @@
                 "filmActor": "安宰贤,安以轩,方中信,宋佳洋"
             },
             {
+                "releaseDate": "2016-12-31 周六",
                 "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/31.jpg",
                 "filmName": "呆呆计划 ",
                 "filmScore": "8.5",
