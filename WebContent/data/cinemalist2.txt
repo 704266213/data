@@ -11,7 +11,7 @@
             "cinemaInfos": [
                 {
                     "type": 0,
-                    "info": "IMax厅"
+                    "info": "IMAX厅"
                 },
                 {
                     "type": 1,
@@ -69,6 +69,10 @@
             "cinemaMinPrice": 21.8,
             "cinemaInfos": [
                 {
+                    "type": 0,
+                    "info": "退票"
+                },
+                {
                     "type": 1,
                     "info": "特惠"
                 }
@@ -81,6 +85,10 @@
             "lastedCinema": 0,
             "cinemaMinPrice": 21.8,
             "cinemaInfos": [
+                {
+                    "type": 0,
+                    "info": "小食"
+                },
                 {
                     "type": 1,
                     "info": "特惠"
@@ -111,6 +119,10 @@
             "lastedCinema": 0,
             "cinemaMinPrice": 19.8,
             "cinemaInfos": [
+                {
+                    "type": 0,
+                    "info": "小食"
+                },
                 {
                     "type": 1,
                     "info": "特惠"
@@ -210,6 +222,10 @@
             "cinemaMinPrice": 19.8,
             "cinemaInfos": [
                 {
+                    "type": 0,
+                    "info": "小食"
+                },
+                {
                     "type": 1,
                     "info": "特惠"
                 },
@@ -226,6 +242,27 @@
             "lastedCinema": 0,
             "cinemaMinPrice": 17.8,
             "cinemaInfos": [
+                {
+                    "type": 1,
+                    "info": "特惠"
+                },
+                {
+                    "type": 2,
+                    "info": "影城卡"
+                }
+            ]
+        },
+        {
+            "cinemaName": "深圳中影雅图城市影院龙华店",
+            "cinemaLocal": "宝安区东环一路和油松路交界处 家和福商城4楼",
+            "cinemaDistance": "13.58km",
+            "lastedCinema": 0,
+            "cinemaMinPrice": 17.8,
+            "cinemaInfos": [
+                {
+                    "type": 0,
+                    "info": "退票"
+                },
                 {
                     "type": 1,
                     "info": "特惠"
