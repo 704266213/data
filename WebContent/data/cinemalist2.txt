@@ -1,0 +1,237 @@
+{
+    "state": 200,
+    "message": "success",
+    "result": {
+        "cinemaModels": [
+            {
+                "cinemaName": "深圳万达电影城海雅店",
+                "cinemaLocal": "宝安区建安一路与新圳路交汇处的海雅广场四层第406号商铺",
+                "cinemaDistance": "1.10km",
+                "lastedCinema": 1,
+                "cinemaMinPrice": 17.8,
+                "cinemaInfo": [
+                    {
+                        "type": 0,
+                        "info": "IMax厅"
+                    },
+                    {
+                        "type": 1,
+                        "info": "特惠"
+                    },
+                    {
+                        "type": 2,
+                        "info": "影城卡"
+                    }
+                ]
+            },
+            {
+                "cinemaName": "中影国际影城深圳宝安港隆城店",
+                "cinemaLocal": " 宝安区80区宝民2路，港隆城购物中心四楼",
+                "cinemaDistance": "2.10km",
+                "lastedCinema": 1,
+                "cinemaMinPrice": 19.8,
+                "cinemaInfo": [
+                    {
+                        "type": 1,
+                        "info": "特惠"
+                    },
+                    {
+                        "type": 2,
+                        "info": "影城卡"
+                    }
+                ]
+            },
+            {
+                "cinemaName": "深圳嘉熙业国际影城",
+                "cinemaLocal": "宝安区民冶大道328号嘉熙业广场5楼",
+                "cinemaDistance": "8.10km",
+                "lastedCinema": 0,
+                "cinemaMinPrice": 16.8,
+                "cinemaInfo": [
+                    {
+                        "type": 0,
+                        "info": "小食"
+                    },
+                    {
+                        "type": 1,
+                        "info": "特惠"
+                    },
+                    {
+                        "type": 2,
+                        "info": "影城卡"
+                    }
+                ]
+            },
+            {
+                "cinemaName": "新华银兴国际影城",
+                "cinemaLocal": "宝安区西乡宝安大道与金海路交汇处",
+                "cinemaDistance": "10.10km",
+                "lastedCinema": 0,
+                "cinemaMinPrice": 21.8,
+                "cinemaInfo": [
+                    {
+                        "type": 1,
+                        "info": "特惠"
+                    }
+                ]
+            },
+            {
+                "cinemaName": "大地影院深圳沙井裕客隆",
+                "cinemaLocal": "宝安区沙井街道办裕客隆百货广场4楼",
+                "cinemaDistance": "22.60km",
+                "lastedCinema": 0,
+                "cinemaMinPrice": 21.8,
+                "cinemaInfo": [
+                    {
+                        "type": 1,
+                        "info": "特惠"
+                    }
+                ]
+            },
+            {
+                "cinemaName": "深圳百线影城",
+                "cinemaLocal": "宝安区松岗街道东方大道36号三层",
+                "cinemaDistance": "52.80km",
+                "lastedCinema": 0,
+                "cinemaMinPrice": 19.8,
+                "cinemaInfo": [
+                    {
+                        "type": 1,
+                        "info": "特惠"
+                    },
+                    {
+                        "type": 2,
+                        "info": "影城卡"
+                    }
+                ]
+            },
+            {
+                "cinemaName": "大地影院深圳佐阾香颂影城",
+                "cinemaLocal": "宝安区布龙路与民治大道交汇处",
+                "cinemaDistance": "2.10km",
+                "lastedCinema": 0,
+                "cinemaMinPrice": 19.8,
+                "cinemaInfo": []
+            },
+            {
+                "cinemaName": "非凡数字影城",
+                "cinemaLocal": "宝安区石岩街道塘头大道39号1楼",
+                "cinemaDistance": "102.10km",
+                "lastedCinema": 0,
+                "cinemaMinPrice": 19.8,
+                "cinemaInfo": [
+                    {
+                        "type": 1,
+                        "info": "特惠"
+                    },
+                    {
+                        "type": 2,
+                        "info": "影城卡"
+                    }
+                ]
+            },
+            {
+                "cinemaName": "云幕国际影院",
+                "cinemaLocal": "宝安区西乡街道共乐社区共和工业路",
+                "cinemaDistance": "32.80km",
+                "lastedCinema": 0,
+                "cinemaMinPrice": 19.8,
+                "cinemaInfo": [
+                    {
+                        "type": 0,
+                        "info": "巨幕"
+                    },
+                    {
+                        "type": 2,
+                        "info": "影城卡"
+                    }
+                ]
+            },
+            {
+                "cinemaName": "百川国际影城（民治优城店）",
+                "cinemaLocal": "宝安区民治大道水尾村路段优城购物中心南区5层（海韵大厦对面）",
+                "cinemaDistance": "68.10km",
+                "lastedCinema": 0,
+                "cinemaMinPrice": 29.8,
+                "cinemaInfo": [
+                    {
+                        "type": 1,
+                        "info": "1212特惠"
+                    },
+                    {
+                        "type": 2,
+                        "info": "影城卡"
+                    }
+                ]
+            },
+            {
+                "cinemaName": "中影飞尚百誉国际影城",
+                "cinemaLocal": "宝安区沙井中心沙井路与创新路交汇",
+                "cinemaDistance": "64.70km",
+                "lastedCinema": 0,
+                "cinemaMinPrice": 12.8,
+                "cinemaInfo": [
+                    {
+                        "type": 1,
+                        "info": "特惠"
+                    },
+                    {
+                        "type": 2,
+                        "info": "影城卡"
+                    }
+                ]
+            },
+            {
+                "cinemaName": "深圳东影南国国际影城上南店",
+                "cinemaLocal": " 宝安区沙井街道上南大街联诚购物广场4楼",
+                "cinemaDistance": "65.80km",
+                "lastedCinema": 0,
+                "cinemaMinPrice": 16.8,
+                "cinemaInfo": [
+                    {
+                        "type": 1,
+                        "info": "特惠"
+                    },
+                    {
+                        "type": 2,
+                        "info": "影城卡"
+                    }
+                ]
+            },
+            {
+                "cinemaName": "中影国际影城深圳宝安港隆城店",
+                "cinemaLocal": " 宝安区80区宝民2路，港隆城购物中心四楼",
+                "cinemaDistance": "2.10km",
+                "lastedCinema": 1,
+                "cinemaMinPrice": 19.8,
+                "cinemaInfo": [
+                    {
+                        "type": 1,
+                        "info": "特惠"
+                    },
+                    {
+                        "type": 2,
+                        "info": "影城卡"
+                    }
+                ]
+            },
+            {
+                "cinemaName": "中影ul城市影院宝安店",
+                "cinemaLocal": "宝安区第五大道高发西岸花园7栋",
+                "cinemaDistance": "63.58km",
+                "lastedCinema": 0,
+                "cinemaMinPrice": 17.8,
+                "cinemaInfo": [
+                    {
+                        "type": 1,
+                        "info": "特惠"
+                    },
+                    {
+                        "type": 2,
+                        "info": "影城卡"
+                    }
+                ]
+            }
+        ]
+    }
+}
