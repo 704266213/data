@@ -11,7 +11,28 @@
             "cinemaInfos": [
                 {
                     "type": 0,
-                    "info": ""
+                    "info": "退票"
+                },
+                {
+                    "type": 1,
+                    "info": "特惠"
+                },
+                {
+                    "type": 2,
+                    "info": "影城卡"
+                }
+            ]
+        },
+        {
+            "cinemaName": "深圳横店电影城",
+            "cinemaLocal": "宝安区民治书香门第上河坊2栋2层近梅林关口",
+            "cinemaDistance": "15.15km",
+            "lastedCinema": 0,
+            "cinemaMinPrice": 17.8,
+            "cinemaInfos": [
+                {
+                    "type": 0,
+                    "info": "小食"
                 },
                 {
                     "type": 1,
