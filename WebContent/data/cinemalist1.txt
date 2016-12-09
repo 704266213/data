@@ -8,7 +8,7 @@
             "cinemaDistance": "1.10km",
             "lastedCinema": 1,
             "cinemaMinPrice": 17.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 0,
                     "info": "IMax厅"
@@ -29,7 +29,7 @@
             "cinemaDistance": "2.10km",
             "lastedCinema": 1,
             "cinemaMinPrice": 19.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 1,
                     "info": "特惠"
@@ -46,7 +46,7 @@
             "cinemaDistance": "8.10km",
             "lastedCinema": 0,
             "cinemaMinPrice": 16.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 0,
                     "info": "小食"
@@ -67,7 +67,7 @@
             "cinemaDistance": "10.10km",
             "lastedCinema": 0,
             "cinemaMinPrice": 21.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 1,
                     "info": "特惠"
@@ -80,7 +80,7 @@
             "cinemaDistance": "22.60km",
             "lastedCinema": 0,
             "cinemaMinPrice": 21.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 1,
                     "info": "特惠"
@@ -93,7 +93,7 @@
             "cinemaDistance": "52.80km",
             "lastedCinema": 0,
             "cinemaMinPrice": 19.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 1,
                     "info": "特惠"
@@ -110,7 +110,7 @@
             "cinemaDistance": "2.10km",
             "lastedCinema": 0,
             "cinemaMinPrice": 19.8,
-            "cinemaInfo": []
+            "cinemaInfos": []
         },
         {
             "cinemaName": "非凡数字影城",
@@ -118,7 +118,7 @@
             "cinemaDistance": "102.10km",
             "lastedCinema": 0,
             "cinemaMinPrice": 19.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 1,
                     "info": "特惠"
@@ -135,7 +135,7 @@
             "cinemaDistance": "32.80km",
             "lastedCinema": 0,
             "cinemaMinPrice": 19.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 0,
                     "info": "巨幕"
@@ -152,7 +152,7 @@
             "cinemaDistance": "68.10km",
             "lastedCinema": 0,
             "cinemaMinPrice": 29.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 1,
                     "info": "1212特惠"
@@ -169,7 +169,7 @@
             "cinemaDistance": "64.70km",
             "lastedCinema": 0,
             "cinemaMinPrice": 12.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 1,
                     "info": "特惠"
@@ -186,7 +186,7 @@
             "cinemaDistance": "65.80km",
             "lastedCinema": 0,
             "cinemaMinPrice": 16.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 1,
                     "info": "特惠"
@@ -203,7 +203,7 @@
             "cinemaDistance": "2.10km",
             "lastedCinema": 1,
             "cinemaMinPrice": 19.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 1,
                     "info": "特惠"
@@ -220,7 +220,7 @@
             "cinemaDistance": "63.58km",
             "lastedCinema": 0,
             "cinemaMinPrice": 17.8,
-            "cinemaInfo": [
+            "cinemaInfos": [
                 {
                     "type": 1,
                     "info": "特惠"
