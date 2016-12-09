@@ -31,6 +31,10 @@
             "cinemaMinPrice": 19.8,
             "cinemaInfos": [
                 {
+                    "type": 0,
+                    "info": "小食"
+                },
+                {
                     "type": 1,
                     "info": "特惠"
                 },
@@ -68,6 +72,10 @@
             "lastedCinema": 0,
             "cinemaMinPrice": 21.8,
             "cinemaInfos": [
+                {
+                    "type": 0,
+                    "info": "小食"
+                },
                 {
                     "type": 1,
                     "info": "特惠"
@@ -120,6 +128,10 @@
             "cinemaMinPrice": 19.8,
             "cinemaInfos": [
                 {
+                    "type": 0,
+                    "info": "小食"
+                },
+                {
                     "type": 1,
                     "info": "特惠"
                 },
@@ -138,6 +150,10 @@
             "cinemaInfos": [
                 {
                     "type": 0,
+                    "info": "小食"
+                },
+                {
+                    "type": 0,
                     "info": "巨幕"
                 },
                 {
@@ -153,6 +169,10 @@
             "lastedCinema": 0,
             "cinemaMinPrice": 29.8,
             "cinemaInfos": [
+                {
+                    "type": 0,
+                    "info": "小食"
+                },
                 {
                     "type": 1,
                     "info": "1212特惠"
