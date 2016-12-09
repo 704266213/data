@@ -11,7 +11,7 @@
             "cinemaInfos": [
                 {
                     "type": 0,
-                    "info": "IMax厅"
+                    "info": "IMAX厅"
                 },
                 {
                     "type": 1,
