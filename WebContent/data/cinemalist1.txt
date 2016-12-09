@@ -198,10 +198,10 @@
             ]
         },
         {
-            "cinemaName": "中影国际影城深圳宝安港隆城店",
-            "cinemaLocal": " 宝安区80区宝民2路，港隆城购物中心四楼",
+            "cinemaName": "深圳幕森影城福永店",
+            "cinemaLocal": "宝安区福永大道128号汇隆城五楼",
             "cinemaDistance": "2.10km",
-            "lastedCinema": 1,
+            "lastedCinema": 0,
             "cinemaMinPrice": 19.8,
             "cinemaInfos": [
                 {
@@ -232,15 +232,15 @@
             ]
         },
         {
-            "cinemaName": "中影国际影城深圳宝安港隆城店",
-            "cinemaLocal": " 宝安区80区宝民2路，港隆城购物中心四楼",
+            "cinemaName": "中影100都市影城彩虹城店",
+            "cinemaLocal": "宝安区前进二路93号彩虹城五楼",
             "cinemaDistance": "2.10km",
-            "lastedCinema": 1,
-            "cinemaMinPrice": 19.8,
+            "lastedCinema": 0,
+            "cinemaMinPrice": 17.8,
             "cinemaInfos": [
                 {
                     "type": 1,
-                    "info": "特惠"
+                    "info": "巨幕"
                 },
                 {
                     "type": 2,
