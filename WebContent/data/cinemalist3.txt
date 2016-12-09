@@ -4,40 +4,40 @@
     "result": {
         "cinemaModels": [
             {
-                "cinemaName": "ÉîÛÚÍò´ïµçÓ°³Çº£ÑÅµê",
-                "cinemaLocal": "±¦°²Çø½¨°²Ò»Â·ÓëĞÂÛÚÂ·½»»ã´¦µÄº£ÑÅ¹ã³¡ËÄ²ãµÚ406ºÅÉÌÆÌ",
-                "cinemaDistance": "1.10km",
-                "lastedCinema": 1,
+                "cinemaName": "é›†é¸¿å‘ä¸­å½±å›½é™…å½±åŸï¼ˆç”°å¯®åº—ï¼‰",
+                "cinemaLocal": "å®å®‰åŒºå…¬æ˜è¡—é“ç”°å¯®æ‘ç‚œä¸œåŸç™¾è´§ä¸‰æ¥¼",
+                "cinemaDistance": "32.15km",
+                "lastedCinema": 0,
                 "cinemaMinPrice": 17.8,
                 "cinemaInfo": [
                     {
                         "type": 0,
-                        "info": "IMaxÌü"
+                        "info": ""
                     },
                     {
                         "type": 1,
-                        "info": "ÌØ»İ"
+                        "info": "ç‰¹æƒ "
                     },
                     {
                         "type": 2,
-                        "info": "Ó°³Ç¿¨"
+                        "info": "å½±åŸå¡"
                     }
                 ]
             },
             {
-                "cinemaName": "ÖĞÓ°¹ú¼ÊÓ°³ÇÉîÛÚ±¦°²¸ÛÂ¡³Çµê",
-                "cinemaLocal": " ±¦°²Çø80Çø±¦Ãñ2Â·£¬¸ÛÂ¡³Ç¹ºÎïÖĞĞÄËÄÂ¥",
+                "cinemaName": "ä¸­å½±å›½é™…å½±åŸæ·±åœ³å®å®‰æ¸¯éš†åŸåº—",
+                "cinemaLocal": " å®å®‰åŒº80åŒºå®æ°‘2è·¯ï¼Œæ¸¯éš†åŸè´­ç‰©ä¸­å¿ƒå››æ¥¼",
                 "cinemaDistance": "2.10km",
                 "lastedCinema": 1,
                 "cinemaMinPrice": 19.8,
                 "cinemaInfo": [
                     {
                         "type": 1,
-                        "info": "ÌØ»İ"
+                        "info": "ç‰¹æƒ "
                     },
                     {
                         "type": 2,
-                        "info": "Ó°³Ç¿¨"
+                        "info": "å½±åŸå¡"
                     }
                 ]
             }
