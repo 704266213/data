@@ -230,6 +230,23 @@
                     "info": "影城卡"
                 }
             ]
+        },
+        {
+            "cinemaName": "中影国际影城深圳宝安港隆城店",
+            "cinemaLocal": " 宝安区80区宝民2路，港隆城购物中心四楼",
+            "cinemaDistance": "2.10km",
+            "lastedCinema": 1,
+            "cinemaMinPrice": 19.8,
+            "cinemaInfos": [
+                {
+                    "type": 1,
+                    "info": "特惠"
+                },
+                {
+                    "type": 2,
+                    "info": "影城卡"
+                }
+            ]
         }
     ]
 }
