@@ -1573,11 +1573,6 @@
                             "playTime": "11:45",
                             "price": "29.9元",
                             "hall": "IMAX厅/4号厅"
-                        },
-                        {
-                            "playTime": "12:45",
-                            "price": "49.8元",
-                            "hall": "IMAX厅/2号厅"
                         }
                     ]
                 },
