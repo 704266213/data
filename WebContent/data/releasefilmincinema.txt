@@ -29,17 +29,45 @@
                         {
                             "playTime": "10:45",
                             "price": "34.8",
+                            "hall": "IMAX厅/1号厅"
+                        },
+                        {
+                            "playTime": "11:45",
+                            "price": "29.9",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "12:45",
+                            "price": "49.8",
+                            "hall": "IMAX厅/2号厅"
+                        },{
+                            "playTime": "13:45",
+                            "price": "34.8元",
+                            "hall": "IMAX厅/5号厅"
+                        },
+                        {
+                            "playTime": "14:45",
+                            "price": "24.8元",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "15:45",
+                            "price": "34.8元",
+                            "hall": "IMAX厅/3号厅"
+                        },{
+                            "playTime": "16:45",
+                            "price": "34.8元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
-                            "hall": "IMAX厅/4号厅"
+                            "price": "34.8元",
+                            "hall": "IMAX厅/9号厅"
                         },
                         {
-                            "playTime": "10:45",
-                            "price": "34.8",
-                            "hall": "IMAX厅/4号厅"
+                            "playTime": "18:45",
+                            "price": "34.8元",
+                            "hall": "IMAX厅/6号厅"
                         }
                     ]
                 },
@@ -61,23 +89,51 @@
                         {
                             "type": 2,
                             "info": "影城卡"
-                        }
+                        },
                     ],
                     "hallInfos": [
                         {
                             "playTime": "10:45",
                             "price": "34.8",
+                            "hall": "IMAX厅/1号厅"
+                        },
+                        {
+                            "playTime": "11:45",
+                            "price": "29.9",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "12:45",
+                            "price": "49.8",
+                            "hall": "IMAX厅/2号厅"
+                        },{
+                            "playTime": "13:45",
+                            "price": "34.8元",
+                            "hall": "IMAX厅/5号厅"
+                        },
+                        {
+                            "playTime": "14:45",
+                            "price": "24.8元",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "15:45",
+                            "price": "34.8元",
+                            "hall": "IMAX厅/3号厅"
+                        },{
+                            "playTime": "16:45",
+                            "price": "34.8元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
-                            "hall": "IMAX厅/4号厅"
+                            "price": "34.8元",
+                            "hall": "IMAX厅/9号厅"
                         },
                         {
-                            "playTime": "10:45",
-                            "price": "34.8",
-                            "hall": "IMAX厅/4号厅"
+                            "playTime": "18:45",
+                            "price": "34.8元",
+                            "hall": "IMAX厅/6号厅"
                         }
                     ]
                 },
