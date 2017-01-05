@@ -28,17 +28,17 @@
                     "hallInfos": [
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
                             "hall": "IMAX厅/1号厅"
                         },
                         {
                             "playTime": "11:45",
-                            "price": "29.9",
+                            "price": "29.9元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
                             "playTime": "12:45",
-                            "price": "49.8",
+                            "price": "49.8元",
                             "hall": "IMAX厅/2号厅"
                         },{
                             "playTime": "13:45",
@@ -94,17 +94,17 @@
                     "hallInfos": [
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
                             "hall": "IMAX厅/1号厅"
                         },
                         {
                             "playTime": "11:45",
-                            "price": "29.9",
+                            "price": "29.9元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
                             "playTime": "12:45",
-                            "price": "49.8",
+                            "price": "49.8元",
                             "hall": "IMAX厅/2号厅"
                         },{
                             "playTime": "13:45",
@@ -574,7 +574,7 @@
                     "cinemaName": "深圳星晨国际影城（松岗店）",
                     "cinemaLocal": "宝安区松岗街道办红星社区永辉超市3楼",
                     "cinemaDistance": "1.90km",
-                    "lastedCinema": 0,
+                    "lastedCinema": 1,
                     "cinemaMinPrice": 15.8,
                     "cinemaInfos": [
                         {
@@ -591,19 +591,28 @@
                         }
                     ],
                     "hallInfos": [
-                        {
+                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
+                            "hall": "IMAX厅/1号厅"
+                        },
+                        {
+                            "playTime": "11:45",
+                            "price": "29.9元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
-                            "playTime": "10:45",
-                            "price": "34.8",
-                            "hall": "IMAX厅/4号厅"
+                            "playTime": "12:45",
+                            "price": "49.8元",
+                            "hall": "IMAX厅/2号厅"
+                        },{
+                            "playTime": "13:45",
+                            "price": "34.8元",
+                            "hall": "IMAX厅/5号厅"
                         },
                         {
-                            "playTime": "10:45",
-                            "price": "34.8",
+                            "playTime": "14:45",
+                            "price": "24.8元",
                             "hall": "IMAX厅/4号厅"
                         }
                     ]
@@ -1533,7 +1542,7 @@
                     "cinemaName": "新华银兴国际影城",
                     "cinemaLocal": "宝安区西乡宝安大道与金海路交汇处",
                     "cinemaDistance": "10.10km",
-                    "lastedCinema": 0,
+                    "lastedCinema": 1,
                     "cinemaMinPrice": 21.8,
                     "cinemaInfos": [
                         {
@@ -1546,20 +1555,20 @@
                         }
                     ],
                     "hallInfos": [
-                        {
+                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
+                            "hall": "IMAX厅/1号厅"
+                        },
+                        {
+                            "playTime": "11:45",
+                            "price": "29.9元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
-                            "playTime": "10:45",
-                            "price": "34.8",
-                            "hall": "IMAX厅/4号厅"
-                        },
-                        {
-                            "playTime": "10:45",
-                            "price": "34.8",
-                            "hall": "IMAX厅/4号厅"
+                            "playTime": "12:45",
+                            "price": "49.8元",
+                            "hall": "IMAX厅/2号厅"
                         }
                     ]
                 },
