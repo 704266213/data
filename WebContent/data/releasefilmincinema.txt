@@ -1946,7 +1946,7 @@
                     "cinemaName": "集鸿发中影国际影城（田寮店）",
                     "cinemaLocal": "宝安区公明街道田寮村炜东城百货三楼",
                     "cinemaDistance": "32.15km",
-                    "lastedCinema": 0,
+                    "lastedCinema": 1,
                     "cinemaMinPrice": 17.8,
                     "cinemaInfos": [
                         {
@@ -1965,17 +1965,17 @@
                     "hallInfos": [
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
                             "hall": "IMAX厅/4号厅"
                         }
                     ]
@@ -2003,17 +2003,17 @@
                     "hallInfos": [
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
                             "hall": "IMAX厅/4号厅"
                         }
                     ]
@@ -2035,11 +2035,6 @@
                         }
                     ],
                     "hallInfos": [
-                        {
-                            "playTime": "10:45",
-                            "price": "34.8",
-                            "hall": "IMAX厅/4号厅"
-                        },
                         {
                             "playTime": "10:45",
                             "price": "34.8",
