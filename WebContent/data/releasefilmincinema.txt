@@ -515,6 +515,532 @@
             "releaseDate": "2017-01-04",
             "cinemaList": [
                 {
+                    "cinemaName": "深圳星晨国际影城（松岗店）",
+                    "cinemaLocal": "宝安区松岗街道办红星社区永辉超市3楼",
+                    "cinemaDistance": "1.90km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 15.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 0,
+                            "info": "IMAX厅"
+                        },
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        },
+                        {
+                            "type": 2,
+                            "info": "影城卡"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "深圳东海国际影城",
+                    "cinemaLocal": "宝安区福永镇桥头村委永福路120号",
+                    "cinemaDistance": "2.10km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 24.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        },
+                        {
+                            "type": 2,
+                            "info": "影城卡"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "深圳东影南国国际影城（唐美店）",
+                    "cinemaLocal": "宝安区民冶大道328号嘉熙业广场5楼",
+                    "cinemaDistance": "8.10km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 16.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 0,
+                            "info": "小食"
+                        },
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        },
+                        {
+                            "type": 2,
+                            "info": "影城卡"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "凤凰国际影城西乡店",
+                    "cinemaLocal": "宝安区西乡街道宝安大道5010号西部",
+                    "cinemaDistance": "10.10km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 21.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 0,
+                            "info": "退票"
+                        },
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "中影星趴影城",
+                    "cinemaLocal": "宝安区新安街道46区万科生活广场",
+                    "cinemaDistance": "22.60km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 21.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 0,
+                            "info": "小食"
+                        },
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "中影德金影城福永店",
+                    "cinemaLocal": "宝安区怀德南路群艺馆一楼",
+                    "cinemaDistance": "52.80km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 19.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        },
+                        {
+                            "type": 2,
+                            "info": "影城卡"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "深圳宝影影城",
+                    "cinemaLocal": "宝安区石岩镇应人石社区南海商业街",
+                    "cinemaDistance": "2.10km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 19.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 0,
+                            "info": "小食"
+                        },
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "中影DY国际影城（沙井店）",
+                    "cinemaLocal": "宝安区沙井街道中心路34-1号形色城",
+                    "cinemaDistance": "102.10km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 19.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        },
+                        {
+                            "type": 2,
+                            "info": "影城卡"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "深圳中影星美国际影城",
+                    "cinemaLocal": "宝安区西乡大道与新湖路交汇处天虹商场",
+                    "cinemaDistance": "32.80km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 19.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 0,
+                            "info": "巨幕"
+                        },
+                        {
+                            "type": 2,
+                            "info": "影城卡"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "中影德金影城西乡店",
+                    "cinemaLocal": "宝安区西乡宝民二路与宝田一路交汇处",
+                    "cinemaDistance": "68.10km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 29.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 1,
+                            "info": "1212特惠"
+                        },
+                        {
+                            "type": 2,
+                            "info": "影城卡"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "深圳中影星悦影城影城",
+                    "cinemaLocal": "宝安区石岩街道石龙社区工业一路与工业二路交汇处惠科时尚广场A栋东侧二楼",
+                    "cinemaDistance": "64.70km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 12.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        },
+                        {
+                            "type": 2,
+                            "info": "影城卡"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "大地影院深圳宝安时代城",
+                    "cinemaLocal": "宝安区西乡街道宝源路时代城6楼",
+                    "cinemaDistance": "65.80km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 16.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        },
+                        {
+                            "type": 2,
+                            "info": "影城卡"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "万厅国际影城公明店",
+                    "cinemaLocal": "宝安区公明街道松白路中泰大夏3楼",
+                    "cinemaDistance": "2.10km",
+                    "lastedCinema": 1,
+                    "cinemaMinPrice": 19.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 0,
+                            "info": "小食"
+                        },
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        },
+                        {
+                            "type": 2,
+                            "info": "影城卡"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "橙天嘉禾影城（中洲店）",
+                    "cinemaLocal": "宝安区创业二路89号中洲购物中心4楼",
+                    "cinemaDistance": "13.58km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 17.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        },
+                        {
+                            "type": 2,
+                            "info": "影城卡"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
+                    "cinemaName": "深圳中影雅图城市影院龙华店",
+                    "cinemaLocal": "宝安区东环一路和油松路交界处 家和福商城4楼",
+                    "cinemaDistance": "13.58km",
+                    "lastedCinema": 0,
+                    "cinemaMinPrice": 17.8,
+                    "cinemaInfos": [
+                        {
+                            "type": 0,
+                            "info": "退票"
+                        },
+                        {
+                            "type": 1,
+                            "info": "特惠"
+                        },
+                        {
+                            "type": 2,
+                            "info": "影城卡"
+                        }
+                    ],
+                    "hallInfos": [
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        },
+                        {
+                            "playTime": "10:45",
+                            "price": "34.8",
+                            "hall": "IMAX厅/4号厅"
+                        }
+                    ]
+                },
+                {
                     "cinemaName": "深圳万达电影城海雅店",
                     "cinemaLocal": "宝安区建安一路与新圳路交汇处的海雅广场四层第406号商铺",
                     "cinemaDistance": "1.10km",
