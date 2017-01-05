@@ -141,7 +141,7 @@
                     "cinemaName": "深圳嘉熙业国际影城",
                     "cinemaLocal": "宝安区民冶大道328号嘉熙业广场5楼",
                     "cinemaDistance": "8.10km",
-                    "lastedCinema": 0,
+                    "lastedCinema": 1,
                     "cinemaMinPrice": 16.8,
                     "cinemaInfos": [
                         {
@@ -158,19 +158,28 @@
                         }
                     ],
                     "hallInfos": [
-                        {
+                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
+                            "hall": "IMAX厅/1号厅"
+                        },
+                        {
+                            "playTime": "11:45",
+                            "price": "29.9元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
-                            "playTime": "10:45",
-                            "price": "34.8",
-                            "hall": "IMAX厅/4号厅"
+                            "playTime": "12:45",
+                            "price": "49.8元",
+                            "hall": "IMAX厅/2号厅"
+                        },{
+                            "playTime": "13:45",
+                            "price": "34.8元",
+                            "hall": "IMAX厅/5号厅"
                         },
                         {
-                            "playTime": "10:45",
-                            "price": "34.8",
+                            "playTime": "14:45",
+                            "price": "24.8元",
                             "hall": "IMAX厅/4号厅"
                         }
                     ]
@@ -621,7 +630,7 @@
                     "cinemaName": "深圳东海国际影城",
                     "cinemaLocal": "宝安区福永镇桥头村委永福路120号",
                     "cinemaDistance": "2.10km",
-                    "lastedCinema": 0,
+                    "lastedCinema": 1,
                     "cinemaMinPrice": 24.8,
                     "cinemaInfos": [
                         {
@@ -636,17 +645,17 @@
                     "hallInfos": [
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
                             "hall": "IMAX厅/4号厅"
                         },
                         {
                             "playTime": "10:45",
-                            "price": "34.8",
+                            "price": "34.8元",
                             "hall": "IMAX厅/4号厅"
                         }
                     ]
