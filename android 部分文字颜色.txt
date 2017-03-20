@@ -1,0 +1,10 @@
+SpannableString sb = new SpannableString(text);
+sb.setSpan(new TextAppearanceSpan(getActivity(), R.style.use_statement_style), 5, sb.length(), Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
+callTime.setText(sb);
+
+
+<style name="use_statement_style">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/color_de4549</item>
+</style>
