@@ -22,7 +22,7 @@
             "cartoonType": 0,
             "cartoonTitle": "极致少年满",
             "cartoonLayout": 1,
-            "cover_image_url": "http://f2.kkmh.com/image/160823/sltb7d57y.webp-w750.jpg",
+            "cover_image_url": "http://f2.kkmh.com/image/170317/u7vfbkarg.webp",
             "description": "高富帅暖男捡到只性别不明的软萌小狐狸。成年后，小狐狸为爱变身亭亭玉立的少女与他再续前缘。绝对萌翻你的治愈养成系，超甜！超萌！超虐狗！【独家/每周一更新 责编：33】",
             "id": 711,
             "likes": "3778万",
