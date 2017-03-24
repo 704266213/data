@@ -27,7 +27,7 @@
             "id": 711,
             "likes": "3778万",
             "title": "捡到只小狐狸",
-            "vertical_image_url": "http://f2.kkmh.com/image/161212/p7p48tawz.webp-w320.w.jpg"
+            "vertical_image_url": "http://f2.kkmh.com/image/170317/u7vfbkarg.webp"
         },
         {
             "cartoonType": 0,
