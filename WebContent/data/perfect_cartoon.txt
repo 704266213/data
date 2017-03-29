@@ -1,0 +1,366 @@
+{
+    "code": 200,
+    "message": "ok",
+    "data": {
+        "surface_image": "http://f2.kkmh.com/image/170307/xue4b8mhp.webp",
+        "topics": [
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170317/tj8qkte83.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170317/u7vfbkarg.webp-w750",
+                "update_day": "(每周一更新)",
+                "description": "在百年鬼宅里拍摄还原鬼宅历史的电影是什么体验？！少女金小伊随着剧组入住这座神秘的月令馆后，一系列剧本之外的灵异事件竟陆续发生！黑夜已经到来，在历史中模糊了的悲剧，正在古宅真实重演！【独家/每周一更新  责编：33】",
+                "created_at": 1489738459,
+                "title": "月令馆神秘事件",
+                "update_status": "连载中",
+                "updated_at": 1489738459,
+                "id": 1055,
+                "category": [
+                    "剧情",
+                    "灵异"
+                ],
+                "label_id": 32,
+                "order": 0,
+                "comics_count": 2
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170217/ujciwgxid.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170217/5uldofc11.webp-w750",
+                "update_day": "(每周三、周五更新)",
+                "description": "海岛小城青年张爽爽因痔疮到肛肠医院求医，突然间尖锐的警报声响彻全城，无数人变身为食人怪兽。张爽爽与医院剩下的幸存者展开了亡命大逃亡，却不知更大的危机才刚刚开始……\r\n【18劲动漫授权/制作人：摩西 更新时间：每周三、周五更新 快看责编：凹凸慢】\r\n",
+                "created_at": 1487311478,
+                "title": "怪兽大暴走",
+                "update_status": "连载中",
+                "updated_at": 1487311478,
+                "id": 1037,
+                "category": [
+                    "爆笑",
+                    "灵异"
+                ],
+                "label_id": 5,
+                "order": 0,
+                "comics_count": 2
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170122/njeszhu3x.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170122/y7isbnovf.webp-w750",
+                "update_day": "(双周更新)",
+                "description": "天真可爱的小孩竟是杀人不眨眼的嗜血魔鬼，以为自己只是普通人的男主竟成为他们追杀的目标，逃亡中男主发现自己身上也藏着不可告人的秘密，至今为止的全部人生原来是一场蓄谋已久的谎言。面对欲望与理智、逃亡与复仇，他又将何去何从？【独家/双周二更新，责编：林早上 】",
+                "created_at": 1485066660,
+                "title": "天真有邪",
+                "update_status": "连载中",
+                "updated_at": 1485066660,
+                "id": 1013,
+                "category": [
+                    "奇幻",
+                    "剧情"
+                ],
+                "label_id": 25,
+                "order": 521,
+                "comics_count": 5
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170221/kqgn44jb9.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170221/gcn4h25rz.webp-w750",
+                "update_day": "(每周二更新)",
+                "description": "伴随着各种各样的危机与绝望而来的，是人类第一个真正意义上的超级英雄。 在他的带动下，不断涌现出了大量的超级英雄。但是他在持续战斗了五年之后，却消失在了人们的视线之中。【授权，每周二更新，责编：凹凸慢】",
+                "created_at": 1484041889,
+                "title": "英雄？我早就不当了",
+                "update_status": "连载中",
+                "updated_at": 1484041889,
+                "id": 1002,
+                "category": [
+                    "爆笑",
+                    "少年"
+                ],
+                "label_id": 42,
+                "order": 0,
+                "comics_count": 11
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/161223/9aip53mvz.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170103/juw32c7ab.webp-w750",
+                "update_day": "(每周六更新)",
+                "description": "美男战神因惹怒众神，被贬下凡修行收妖，于是他找到转世成萌妹的哮天犬一道修行，引发了一系列爆笑故事。这个战神，集逗比、中二、耍酷、霸道于一身，神剧情让你欲罢不能！【授权，每周六更新/责编：33】",
+                "created_at": 1472218234,
+                "title": "当神不让",
+                "update_status": "连载中",
+                "updated_at": 1472218234,
+                "id": 918,
+                "category": [
+                    "奇幻",
+                    "少年"
+                ],
+                "label_id": 17,
+                "order": 400,
+                "comics_count": 78
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170123/6xkzrabpx.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170123/dm6426k9a.webp-w750",
+                "update_day": "(每周日更新)",
+                "description": "高维度外星生物“牧灵”被叛逆女高中生召唤到地球？！一心想回故乡的他和独自生活的她，相处中逐渐变得依赖彼此，却发现两人背后深藏的巨大秘密竟是·····【·独家/每周日更新  责编：33】",
+                "created_at": 1485169009,
+                "title": "牧灵",
+                "update_status": "连载中",
+                "updated_at": 1485169009,
+                "id": 1021,
+                "category": [
+                    "奇幻"
+                ],
+                "label_id": 25,
+                "order": 500,
+                "comics_count": 7
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170320/9odezufqv.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170320/on3ece0hb.webp-w750",
+                "update_day": "(每周五更新)",
+                "description": "灾难题材漫画！倾城大雨，导致城市被淹。一夜之间，全城的鱼类竟然全部都异变成了吃人怪？在这场灾难中的幸存者生命岌岌可危，是否真的有人可以逃出这座城市？【独家/每周五更新 责编：思宇】",
+                "created_at": 1488427482,
+                "title": "鱼变",
+                "update_status": "连载中",
+                "updated_at": 1488427482,
+                "id": 1045,
+                "category": [
+                    "剧情"
+                ],
+                "label_id": 17,
+                "order": 0,
+                "comics_count": 5
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170203/a75qf1v2h.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170203/epijwnqh2.webp-w750",
+                "update_day": "(每周三更新)",
+                "description": "弱者顺应命运，强者操控命运。叶继铭从高高在上的跨国企业总裁一下子变成了露宿街头的流浪汉，面对未婚妻和好友的背叛，他面临人生的重大抉择。【独家/每周三更新 责编：Zaku】",
+                "created_at": 1485194033,
+                "title": "命理师",
+                "update_status": "连载中",
+                "updated_at": 1485194033,
+                "id": 1025,
+                "category": [
+                    "奇幻",
+                    "少年"
+                ],
+                "label_id": 25,
+                "order": 200,
+                "comics_count": 9
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/161220/4dtamuwi5.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170113/k5g9vjvij.webp-w750",
+                "update_day": "(每周六更新)",
+                "description": "14岁时死去的青梅小悠成为了习羽的“守护神”，在小悠的“守护”下，习羽到24岁都没有谈过一场恋爱，谈一场恋爱已经成为了他的人生目标，但是他这个单纯的愿望却引发了一系列事件……【出品：微漫画，总监制：天空，漫画：Buddy，制作人：咕噜咪，脚本协力：咕噜咪、L.Y.    条漫版本由快看APP独家提供/每周六更新，责编：漠漠】",
+                "created_at": 1453491684,
+                "title": "渡灵guarding",
+                "update_status": "连载中",
+                "updated_at": 1453491684,
+                "id": 696,
+                "category": [
+                    "奇幻",
+                    "少年"
+                ],
+                "label_id": 17,
+                "order": 499,
+                "comics_count": 96
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/161220/bmcs1d5hp.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/161127/bo7msumnz.webp-w750",
+                "update_day": "(每周四更新)",
+                "description": "运气超差的美男除妖师，连续四年毕业考试都抽到最难考题——顶级妖王！却因除妖能力太弱而一直无法毕业？！从此踏上无证除妖之路，展开了与妖王不得不说的爆笑故事！【独家/每周四更新  责编：M】",
+                "created_at": 1480176595,
+                "title": "无证除妖师",
+                "update_status": "连载中",
+                "updated_at": 1480176595,
+                "id": 971,
+                "category": [
+                    "奇幻",
+                    "爆笑"
+                ],
+                "label_id": 5,
+                "order": 300,
+                "comics_count": 17
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170227/b63owgacr.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170227/cmzreoeuf.webp-w750",
+                "update_day": "(每周二更新)",
+                "description": "天下大势，合久必分，分久必合。这是一个混乱的时代，成王败寇，力量即一切。当逢乱世，3个不同出身的年轻人，因缘际会碰到了一起。然而他们并不知道，他们的出现将拨乱整个时代的齿轮……【18劲动漫授权/制作人：摩西 更新时间：每周二 快看责编：漠漠】",
+                "created_at": 1484710546,
+                "title": "关长生",
+                "update_status": "连载中",
+                "updated_at": 1484710546,
+                "id": 1006,
+                "category": [
+                    "爆笑",
+                    "少年"
+                ],
+                "label_id": 5,
+                "order": 0,
+                "comics_count": 14
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170118/y6blsu0r1.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170118/h1r3gh4k9.webp-w750",
+                "update_day": "(每周日更新)",
+                "description": "高考失利的黄小虎，不甘失败的命运，怀揣5千块从海边小城来到了一线大城市——圣都。因在地铁口一时犹豫，被裹入了下班高峰人流中。然而等待着他的，将是一场可怕的虫化危机…… 【18劲动漫授权/制作人：摩西 更新时间：每周日 快看责编：凹凸慢】",
+                "created_at": 1484723536,
+                "title": "人类进化论",
+                "update_status": "连载中",
+                "updated_at": 1484723536,
+                "id": 1008,
+                "category": [
+                    "灵异",
+                    "少年"
+                ],
+                "label_id": 25,
+                "order": 0,
+                "comics_count": 9
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170313/psb50wr9g.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170313/415ifg9b8.webp-w750",
+                "update_day": "(每日更新)",
+                "description": "“不想当学霸的超级英雄不是好男人”！高中生晁能看似只是普通的高智商学霸，实际他还是协助警方刑侦破案、执行特殊任务的秘密特工。晁能运用数理化知识，结合自己的超能力，解决了一桩桩棘手案件。但其神秘身份也被反派发现。既要做维护世界和平的超级英雄，又要做赶回学校上课、考试的学霸，晁能要如何处理这复杂的局面呢？本系列又被称为“不好好学习连漫画都看不懂”系列。【授权/不定时更新 责编：凹凸慢】",
+                "created_at": 1487749939,
+                "title": "科学超能方法论",
+                "update_status": "连载中",
+                "updated_at": 1487749939,
+                "id": 1039,
+                "category": [
+                    "爆笑",
+                    "少年"
+                ],
+                "label_id": 5,
+                "order": 100,
+                "comics_count": 13
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170224/v5u8cwtpk.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170313/iw1jsw5fb.webp-w750",
+                "update_day": "(每周二更新)",
+                "description": "如果校园里住着一个“神”，能帮你实现任何心愿，你会许什么愿望？饱受欺凌的男孩向“神”控诉，竟得到了“神”的眷顾，奇怪的事开始接连发生···【独家/每周二更新 责编：Zaku】",
+                "created_at": 1487935697,
+                "title": "神迹学园",
+                "update_status": "连载中",
+                "updated_at": 1487935697,
+                "id": 1040,
+                "category": [
+                    "剧情"
+                ],
+                "label_id": 17,
+                "order": 0,
+                "comics_count": 5
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/161220/6pki9txkh.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170105/7gc8x6r40.webp-w750",
+                "update_day": "(每周五更新)",
+                "description": "西天取经竟是天庭的一个惊天阴谋！？？数十年后【奇经】再次下落不明，天庭派大军大肆搜寻，为了不让【奇经】再次落入天庭之手，西行之旅再度上演！这是一个远古八大神族支配着神州大地，人类对神明充满敬畏的年代，神明以外还充斥着各种各样的妖魔鬼怪，史上最颠覆的西游传奇便在此展开！【授权/每周五更新 责编：漠漠】",
+                "created_at": 1465280979,
+                "title": "西行纪",
+                "update_status": "连载中",
+                "updated_at": 1465280979,
+                "id": 843,
+                "category": [
+                    "奇幻",
+                    "少年"
+                ],
+                "label_id": 42,
+                "order": 0,
+                "comics_count": 87
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170222/927lz2jjz.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170222/i3zp8i5p6.webp-w750",
+                "update_day": "",
+                "description": "平凡男生偶得女神垂青，却惹上黑道大佬，机缘巧合之下获得了神秘立方体，开启超能之路，从此，行侠仗义，快意恩仇，踏上属于自己的强者之旅。【独家/周更  责编：吴半石】",
+                "created_at": 1485168941,
+                "title": "超能立方",
+                "update_status": "连载中",
+                "updated_at": 1485168941,
+                "id": 1020,
+                "category": [
+                    "奇幻",
+                    "少年"
+                ],
+                "label_id": 25,
+                "order": 300,
+                "comics_count": 8
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/161220/q3gjr3kk4.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170104/pp5shyxw7.webp-w750",
+                "update_day": "",
+                "description": "“镖”，指的是受雇的武夫，其保护的目标，亦指官府悬赏通缉的目标。隋末民乱前夕，江湖上掀起了一阵腥风血雨，各路人马的恩怨情仇逐渐展开。【新漫画授权/作者：许先哲 不定期更新 责编：凹凸慢】",
+                "created_at": 1476172250,
+                "title": "镖人",
+                "update_status": "连载中",
+                "updated_at": 1476172250,
+                "id": 946,
+                "category": [
+                    "剧情",
+                    "少年"
+                ],
+                "label_id": 17,
+                "order": 0,
+                "comics_count": 43
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170216/0xroy2drz.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170216/j3ksx7e1d.webp-w750",
+                "update_day": "(每周四、周六更新)",
+                "description": "平凡的小青年张猛，因在道场的出色表现，被美丽的师姐搭讪。但等待着他的并不是什么艳遇，而是一场生死危机。一群潜伏于人类中间的“面具怪物”，也渐渐露出了锋利的獠牙……【18劲动漫授权/制作人：摩西 更新时间：每周四、周六更新 快看责编：漠漠】",
+                "created_at": 1487157010,
+                "title": "霸王面具",
+                "update_status": "连载中",
+                "updated_at": 1487157010,
+                "id": 1031,
+                "category": [
+                    "剧情",
+                    "少年"
+                ],
+                "label_id": 32,
+                "order": 0,
+                "comics_count": 9
+            },
+            {
+                "discover_image_url": "",
+                "vertical_image_url": "http://f2.kkmh.com/image/170125/n4o8unc2h.webp-w320.w",
+                "cover_image_url": "http://f2.kkmh.com/image/170125/ul4gfzp8s.webp-w750",
+                "update_day": "(每周三更新)",
+                "description": "魔都是一个物欲横流，光怪陆离的超级都市，在这里，充斥着形形色色的人，除了人，还有各色奇异的生物也都伪装其中，他们在这座不夜城，每天都上演着神奇诡异的的故事，也许下一刻，它就在你身边发生。【独家/每周三更新 责编：Zaku】",
+                "created_at": 1485193687,
+                "title": "魔都诡事",
+                "update_status": "连载中",
+                "updated_at": 1485193687,
+                "id": 1024,
+                "category": [
+                    "奇幻"
+                ],
+                "label_id": 25,
+                "order": 300,
+                "comics_count": 8
+            }
+        ]
+    }
+}
