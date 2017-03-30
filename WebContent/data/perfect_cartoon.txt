@@ -1,7 +1,7 @@
 {
-    "code": 200,
+    "state": 200,
     "message": "ok",
-    "data": {
+    "result": {
         "surface_image": "http://f2.kkmh.com/image/170307/xue4b8mhp.webp",
         "topics": [
             {
