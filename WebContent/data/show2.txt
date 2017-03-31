@@ -1,885 +1,887 @@
 {
     "state": 200,
     "message": "ok",
-    "result": [
-        {
-            "itemType": 0,
-            "title": "佳作精选"
-        },
-        {
-            "description": "催泪预警！青梅竹马的初恋即将死亡，而自己竟是帮他完成遗愿的志愿者。该怎么拯救这段刻骨铭心的爱情？【独家/完结  责编：半石】",
-            "pic": "http://f2.kkmh.com/image/170320/k3hcnjy5b.webp",
-            "itemType": 1,
-            "position": 0,
-            "title": "死亡告白倒计时",
-            "recommended_text": "告白即将死亡的美少年",
-            "likes_count": 16118047,
-            "label_text": "恋爱",
-            "comments_count": 269816,
-            "category": [
-                "完结"
-            ]
-        },
-        {
-            "description": "一个英勇彪悍的女将军，一觉醒来变成了弱女子。面对皇帝的恩宠，更想要征战沙场，保家卫国？不过皇恩那么浩荡，她要怎样才能独善其身啊~【独家/每周二更新 责编：吴半石】",
-            "pic": "http://f2.kkmh.com/image/160729/jnbzgriq7.webp",
-            "itemType": 1,
-            "position": 1,
-            "title": "美人为将",
-            "recommended_text": "狂野美人不当皇后当将军",
-            "likes_count": 15618511,
-            "label_text": "剧情",
-            "comments_count": 410991,
-            "category": [
-                "奇幻",
-                "古风"
-            ]
-        },
-        {
-            "description": "我无可救药的爱上了邻居的男朋友，却发现，邻居竟然是个已婚的人，难道我喜欢的人是个男小三？【独家/周一更新  责编：林早上】",
-            "pic": "http://f2.kkmh.com/image/170120/ru3811cgi.webp",
-            "itemType": 1,
-            "position": 2,
-            "title": "黄色气球",
-            "recommended_text": "把爱情狠狠抢到手",
-            "likes_count": 2453229,
-            "label_text": "剧情",
-            "comments_count": 58557,
-            "label_text_color": "#ffffff",
-            "category": [
-                "剧情",
-                "治愈",
-                "都市"
-            ]
-        },
-        {
-            "description": "覆盖全国范围的死刑投票短信突然出现，每个成年人都能决定重案嫌疑人的生死。当生杀大权交与平凡民众，正义与真理、规则与混沌将如何界定？【独家/每周四更新 责编：Zaku】",
-            "pic": "http://f2.kkmh.com/image/170106/hced9u4y2.webp",
-            "itemType": 1,
-            "position": 3,
-            "title": "国民死刑投票",
-            "recommended_text": "手机投票操控死刑",
-            "likes_count": 2215683,
-            "label_text": "剧情",
-            "comments_count": 48191,
-            "label_text_color": "#ffffff",
-            "category": [
-                "剧情"
-            ]
-        },
-        {
-            "itemType": 0,
-            "title": "热门必看"
-        },
-        {
-            "description": "少男少女同住一个屋檐下，一同历经青春懵懂和成长烦恼，彼此鼓励、渐生爱意。画风温馨的超人气少女漫，体味青春悸动的纯爱萌芽，这一部就够！【独家/每周二更新，责编：牛奶】",
-            "pic": "http://f2.kkmh.com/image/161214/ic0pkr0jo.webp",
-            "itemType": 2,
-            "position": 0,
-            "title": "怦然心动",
-            "recommended_text": "纯情 悸动",
-            "likes_count": 0,
-            "label_text": "青春",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "剧情"
-            ]
-        },
-        {
-            "description": "高富帅暖男捡到只性别不明的软萌小狐狸。成年后，小狐狸为爱变身亭亭玉立的少女与他再续前缘。绝对萌翻你的治愈养成系，超甜！超萌！超虐狗！【独家/每周一更新 责编：33】",
-            "pic": "http://f2.kkmh.com/image/161212/p7p48tawz.webp",
-            "itemType": 2,
-            "position": 1,
-            "title": "捡到只小狐狸",
-            "recommended_text": "暖萌 治愈",
-            "likes_count": 0,
-            "label_text": "治愈",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "奇幻"
-            ]
-        },
-        {
-            "description": "全平台关注量第一名作品！他，戴上眼镜是沉默冷峻的高中生，摘下眼镜是浪荡不羁的夜店王子。女主同时爱上他们，想不到竟是同一人？画风超绝美，男主帅到令人窒息！引爆你的少女心！\r\n【独家/每周四更新  责编：33】",
-            "pic": "http://f2.kkmh.com/image/161220/1uljkyrx7.webp",
-            "itemType": 2,
-            "position": 2,
-            "title": "朝花惜时",
-            "recommended_text": "夜店男神 撩妹",
-            "likes_count": 0,
-            "label_text": "恋爱",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "校园"
-            ]
-        },
-        {
-            "description": "出轨俱乐部，人们在这里互相掩护偷情、共享伴侣。作品思想前卫大胆，家暴、婚内出轨、开放式婚姻...紧张刺激又不断反转的剧情让人欲罢不能！一辈子这么长，你会只爱一个人么？全平台关注量TOP3热作！2016年度掀起前所未有的超火爆讨论度，不可错过的伦理大作！\r\n 【完结 责编：半石】",
-            "pic": "http://f2.kkmh.com/image/161221/k2tclsjz0.webp",
-            "itemType": 2,
-            "position": 3,
-            "title": "密会情人——出轨俱乐部",
-            "recommended_text": "伦理 出轨",
-            "likes_count": 0,
-            "label_text": "剧情",
-            "comments_count": 0,
-            "category": [
-                "成人",
-                "都市"
-            ]
-        },
-        {
-            "description": "平台最受欢迎的短篇合集，作者以细腻的情绪刻画见长，引发读者极大共鸣！每个人都或多或少存在缺点，但是爱我们的人都一并接受了，感谢对方，一直都爱着不完美的我们。系列第二部《公主病的克星》有公主病的桃子在前段感情里伤痕累累，遇到了他的骑士，守护骄傲又敏感的她······【独家/每周六更新，责编：哑铃lynn】",
-            "pic": "http: //f2.kkmh.com/image/161220/8u6yj6s0k.webp",
-            "itemType": 2,
-            "position": 4,
-            "title": "公主病的克星-《感谢你是爱我的》系列2",
-            "recommended_text": "腹黑男傲娇女",
-            "likes_count": 0,
-            "label_text": "都市",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "都市"
-            ]
-        },
-        {
-            "description": "超人气偶像尹深，经常因为“脑残”行为在网络上招黑，智商常年不在线，犯着各种蠢萌的小错，粉丝却越来越多……人气偶像、明星组合、新人团体、各色娱乐圈人物纷纷登场，讲述偶像们爆笑逗比的日常与进阶之路！【授权/每周五更新责编：大萌】",
-            "pic": "http: //f2.kkmh.com/image/161220/ozfo5e0bo.webp",
-            "itemType": 2,
-            "position": 5,
-            "title": "头条都是他",
-            "recommended_text": "偶像追梦",
-            "likes_count": 0,
-            "label_text": "爆笑",
-            "comments_count": 0,
-            "category": [
-                "日常",
-                "爆笑"
-            ]
-        },
-        {
-            "itemType": 0,
-            "title": "新作上架"
-        },
-        {
-            "description": "儿时的意外邂逅，让新登基的19岁皇帝对长生不老的巫祝——阿萝念念不忘，再次相遇，年轻气盛的新皇是否能俘获阿萝的芳心？一段美妙的奇幻爱情故事即将上演【独家/每周六更新责编：M】",
-            "pic": "http: //f2.kkmh.com/image/170314/umkqy8ba8.webp",
-            "itemType": 3,
-            "position": 0,
-            "title": "巫祝少女",
-            "recommended_text": "英俊帝王恋上身世成谜的永生巫女！",
-            "likes_count": 678062,
-            "label_text": "奇幻",
-            "comments_count": 26704,
-            "category": [
-                "恋爱",
-                "奇幻"
-            ]
-        },
-        {
-            "description": "在百年鬼宅里拍摄还原鬼宅历史的电影是什么体验？！少女金小伊随着剧组入住这座神秘的月令馆后，一系列剧本之外的灵异事件竟陆续发生！黑夜已经到来，在历史中模糊了的悲剧，正在古宅真实重演！【独家/每周一更新责编：33】",
-            "pic": "http: //f2.kkmh.com/image/170317/u7vfbkarg.webp",
-            "itemType": 3,
-            "position": 1,
-            "title": "月令馆神秘事件",
-            "recommended_text": "在百年凶宅内拍恐怖片是什么体验？",
-            "likes_count": 227747,
-            "label_text": "悬疑",
-            "comments_count": 5597,
-            "category": [
-                "剧情",
-                "灵异"
-            ]
-        },
-        {
-            "description": "根据知名作家蓝淋同名小说改编。肖腾醉酒后醒来发现自己床上竟躺着一个绝世美男！而这个家伙还整天黏着自己！躲不开的他是烂桃花，还是天意？【独家/每周五更新责编：Zaku】",
-            "pic": "http: //f2.kkmh.com/image/170310/sx0bdh6rh.webp",
-            "itemType": 3,
-            "position": 2,
-            "title": "意外事故",
-            "recommended_text": "蓝淋同名小说改编，空巢总裁苦情追爱史！",
-            "likes_count": 366874,
-            "label_text": "都市",
-            "comments_count": 9345,
-            "category": [
-                "彩虹",
-                "都市"
-            ]
-        },
-        {
-            "itemType": 0,
-            "title": "少女纯爱"
-        },
-        {
-            "description": "校园类热度榜TOP3作品。“我忘记了所有数学公式，却忘不了你曾经爱我。”15岁的我们，坚信爱一个人就是一辈子，相爱的人永远都会在一起。但从没想过，能够遇见就已经足够幸运。这是一个长达八年的恋爱遗憾物语。【独家/每周日更新责编：思宇】",
-            "pic": "http: //f2.kkmh.com/image/161222/nj1al2bs8.webp",
-            "itemType": 2,
-            "position": 0,
-            "title": "你曾经爱我",
-            "recommended_text": "青春遗憾",
-            "likes_count": 0,
-            "label_text": "恋爱",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "剧情"
-            ]
-        },
-        {
-            "description": "对彼此的喜欢，终会让我们再度相遇，苏兹与奥利二人从小就相识，却被迫分离；高中相遇，却又产生误会；时隔多年两人重逢，爱情这次会悄然而至么……看似虐的情节，却甜蜜得让人少女心爆棚！青梅竹马？一见钟情？霸道帅哥爱上我？你想要的全都有！【独家/完结责编：哑铃lynn】",
-            "pic": "http: //f2.kkmh.com/image/170105/he88xurdp.webp",
-            "itemType": 2,
-            "position": 1,
-            "title": "恋爱！从今天开始",
-            "recommended_text": "纯情学长",
-            "likes_count": 0,
-            "label_text": "恋爱",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "完结"
-            ]
-        },
-        {
-            "description": "为了离家上学，18岁少女不得不跟青梅竹马展开同居生活，却没想到第一天就被对方壁咚强吻！这难道都是竹马的计划？心跳加速的18岁同居即将开始！【独家/每周二更新责编：M】\r\n",
-            "pic": "http: //f2.kkmh.com/image/170122/vbcyaje5o.webp",
-            "itemType": 2,
-            "position": 2,
-            "title": "18，要不要",
-            "recommended_text": "同床撩妹狂魔",
-            "likes_count": 0,
-            "label_text": "恋爱",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "校园"
-            ]
-        },
-        {
-            "description": "上线第一话空降周榜TOP1，让你脸红心跳的少女漫！舞台剧中扮演王子的青梅竹马，竟当众触碰了我的唇，那可是我保留多年的初吻啊！可是这柔软而温暖的触感，以及快要无法呼吸的感觉，是怎么回事？男主超会撩妹！少女们快到碗里来！【独家/每周五更新，责编：哑铃lynn】",
-            "pic": "http: //f2.kkmh.com/image/161214/e9k4pap5h.webp",
-            "itemType": 2,
-            "position": 3,
-            "title": "还有一秒吻上你",
-            "recommended_text": "强吻青梅竹马",
-            "likes_count": 0,
-            "label_text": "恋爱",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "校园"
-            ]
-        },
-        {
-            "description": "关于暗恋的那些小事。吕振宁暗恋青梅竹马的吕小渔，却只能默默接受她喜欢别人的事实；而无法觉察到自己一直被陪伴的吕小渔，也在为喜欢的学长暗暗坚持。青春悸动的纯爱萌芽，常常是在暗恋和付出中，让人感到默然心痛。我们之间的距离，是否真的遥不可及？【独家/双周二更新责编：33】",
-            "pic": "http: //f2.kkmh.com/image/161220/zrhgjiggz.webp",
-            "itemType": 2,
-            "position": 4,
-            "title": "遥不可及",
-            "recommended_text": "暗恋成长",
-            "likes_count": 0,
-            "label_text": "恋爱",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "校园"
-            ]
-        },
-        {
-            "description": "R&K是国内当红的二人偶像组合，RON(邱晨雨)走冷酷帅哥路线，KIMI（裕朗）却被塑造成聒噪谐星的形象。但裕朗的真正性格并非如此，他的儿时玩伴盈月一直在背后默默注视，希望好友能尽快突破这样的局面……【独家/双周四更新责编：半石】",
-            "pic": "http: //f2.kkmh.com/image/161222/6tdxwg0ug.webp",
-            "itemType": 2,
-            "position": 5,
-            "title": "伪装小丑的王子",
-            "recommended_text": "偶像成长",
-            "likes_count": 0,
-            "label_text": "恋爱",
-            "comments_count": 0,
-            "category": [
-                "恋爱"
-            ]
-        },
-        {
-            "itemType": 0,
-            "title": "都市奇幻"
-        },
-        {
-            "description": "我无可救药的爱上了邻居的男朋友，却发现，邻居竟然是个已婚的人，难道我喜欢的人是个男小三？【独家/周一更新责编：林早上】",
-            "pic": "http: //f2.kkmh.com/image/170120/zjkqzf6br.webp",
-            "itemType": 2,
-            "position": 0,
-            "title": "黄色气球",
-            "recommended_text": "出轨伦理",
-            "likes_count": 0,
-            "label_text": "剧情",
-            "comments_count": 0,
-            "category": [
-                "剧情",
-                "治愈",
-                "都市"
-            ]
-        },
-        {
-            "description": "无法说谎的男主，阴差阳错致使女主失恋又失业，而他竟是她的新上司？这部撩人总裁漫，集合霸道总裁的湿身诱惑、把妹大法、夺爱争斗，轰炸你的少女心！【独家/周一更新，责编：吴半石】\r\n",
-            "pic": "http: //f2.kkmh.com/image/161220/g48udmrks.webp",
-            "itemType": 2,
-            "position": 1,
-            "title": "不说谎恋人",
-            "recommended_text": "职场撩人总裁",
-            "likes_count": 0,
-            "label_text": "都市",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "都市"
-            ]
-        },
-        {
-            "description": "关于职场的都市浪漫故事，萧艾艾醉酒后意外与高中学生会长“同床共枕”，而他竟是公司总裁，暗中帮助职场中屡屡受挫的她。腹黑霸道总裁与倔强单纯女职员，职场与情场波折却浪漫的故事。【独家/每周四更新责编：林早上】",
-            "pic": "http: //f2.kkmh.com/image/161220/7mgt7gpdl.webp",
-            "itemType": 2,
-            "position": 2,
-            "title": "与爱有关",
-            "recommended_text": "职场霸道总裁",
-            "likes_count": 0,
-            "label_text": "都市",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "剧情"
-            ]
-        },
-        {
-            "description": "你相信世界上有这么一种能力吗？只要点击手机上的“反转”按钮，就可以改变别人的人生，然而代价却是……当女主播何希得到了这颗夏娃的苹果时，等待她的究竟是重生还是毁灭？【独家/每周日更新责编：半石】",
-            "pic": "http: //f2.kkmh.com/image/170123/33h3huvuw.webp",
-            "itemType": 2,
-            "position": 3,
-            "title": "反转现实",
-            "recommended_text": "App职场宫斗",
-            "likes_count": 0,
-            "label_text": "奇幻",
-            "comments_count": 0,
-            "category": [
-                "奇幻",
-                "都市"
-            ]
-        },
-        {
-            "description": "温柔贤惠的家庭主妇，竟是退隐江湖的黑帮女老大？！接连遭遇刺客袭击、老公被绑架后，娇妻秒变大佬，剽悍出战仇家！【独家/每周三更新责编：珉xi】\t",
-            "pic": "http: //f2.kkmh.com/image/161230/s4r0r3nn4.webp",
-            "itemType": 2,
-            "position": 4,
-            "title": "我的老婆是大佬",
-            "recommended_text": "黑帮女老大",
-            "likes_count": 0,
-            "label_text": "剧情",
-            "comments_count": 0,
-            "category": [
-                "剧情"
-            ]
-        },
-        {
-            "description": "萌点槽点满满的奇幻爆笑漫！萌宠化身美男，与单身女主人的神经病日常~美男妩媚争宠、喝马桶水再亲亲主人、自以为帅气地舔粑粑······喜欢各种爆笑喷饭梗的你，这部作品一定不能错过！【独家/每周五更新，责编：林早上】",
-            "pic": "http: //f2.kkmh.com/image/161220/kjbr1czt9.webp",
-            "itemType": 2,
-            "position": 5,
-            "title": "别闹！我想静静……",
-            "recommended_text": "萌宠爆笑",
-            "likes_count": 0,
-            "label_text": "脑洞",
-            "comments_count": 0,
-            "category": [
-                "奇幻",
-                "爆笑"
-            ]
-        },
-        {
-            "itemType": 0,
-            "title": "一分钟轻松短漫"
-        },
-        {
-            "description": "我突然被呆萌小僵尸缠上还让其带回家！！！\r\n\r\n【授权/完结，责编：奶片侠】",
-            "pic": "http: //f2.kkmh.com/image/170122/t6cyyz6tk.webp",
-            "itemType": 4,
-            "position": 0,
-            "title": "唉？捡到一个小僵尸（第1季）",
-            "recommended_text": "我被呆萌小僵尸缠上，还把他带回家同居~",
-            "likes_count": 0,
-            "label_text": "治愈",
-            "comments_count": 0,
-            "category": [
-                "治愈"
-            ]
-        },
-        {
-            "description": "比冰箱还冷的冷笑话，\r\n最爆笑的女神经带你进入蛇精病的世界！\r\n\r\n【授权责编：林早上】",
-            "pic": "http: //f2.kkmh.com/image/170123/mmyr4xeph.webp",
-            "itemType": 4,
-            "position": 1,
-            "title": "制冷少女的日常",
-            "recommended_text": "比冰箱还冷的冷笑话，最爆笑女神经带你进入蛇精病的世界！",
-            "likes_count": 0,
-            "label_text": "爆笑",
-            "comments_count": 0,
-            "category": [
-                "日常",
-                "爆笑"
-            ]
-        },
-        {
-            "description": "曾获得第十届金龙奖幽默漫画奖，伟大的安妮成名作。根据安妮和其男友王小明从相识到相爱的一系列真人真事改编。当女神经病遇上冷酷死鱼眼的男主，会产生什么样的化学物质？！绝对爆笑的治愈系漫画，最无节操的恋爱指南！【独家/第二季完结】",
-            "pic": "http: //f2.kkmh.com/image/161229/5zg8nzck5.webp",
-            "itemType": 4,
-            "position": 2,
-            "title": "安妮和王小明",
-            "recommended_text": "最无节操的恋爱指南！当女神经病遇上冷酷死鱼眼的他...",
-            "likes_count": 0,
-            "label_text": "恋爱",
-            "comments_count": 0,
-            "category": [
-                "日常",
-                "恋爱"
-            ]
-        },
-        {
-            "itemType": 0,
-            "title": "绝美古风"
-        },
-        {
-            "description": "古风类榜单总热度第一名！现代小萝莉家里从天而降了一个超帅的古代锦衣卫！缺失父母关怀的小萝莉把他当成了最亲近的人，竟要当他的童养媳？！表面傲娇冷漠挑剔的他，却越来越放不下这个小家伙...画风超级赞的养成系古风恋爱！\r\n【独家/每周三更新责编：哑铃lynn】",
-            "pic": "http: //f2.kkmh.com/image/161220/idr1o1juw.webp",
-            "itemType": 2,
-            "position": 2,
-            "title": "我男票是锦衣卫",
-            "recommended_text": "穿越养成系",
-            "likes_count": 0,
-            "label_text": "穿越",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "古风"
-            ]
-        },
-        {
-            "description": "聪慧霸气的掌门之女，青楼偶遇潇洒爱撩的名门公子，本以为是良缘缔结，却不想是孽缘交织······此情应是长相守，你若无“情”我便休。爆笑与虐心并存的古风恋爱，画风超唯美！【独家/每周六更新责编：半石】",
-            "pic": "http: //f2.kkmh.com/image/161220/0347s8oiy.webp",
-            "itemType": 2,
-            "position": 1,
-            "title": "盛世清曲",
-            "recommended_text": "仇人虐恋",
-            "likes_count": 0,
-            "label_text": "励志",
-            "comments_count": 0,
-            "category": [
-                "古风"
-            ]
-        },
-        {
-            "description": "绝美桃花妖痴心守护小萝莉，人妖殊途，两人历经磨难。由一段剪不断理还乱的暧昧感情，引出了关于医术、爱情、友情以及前世今生的旷世奇缘！【独家/每周四更新，责编：Zaku】",
-            "pic": "http: //f2.kkmh.com/image/161220/meiczq4h1.webp",
-            "itemType": 2,
-            "position": 2,
-            "title": "桃花灼",
-            "recommended_text": "美妖萌系",
-            "likes_count": 0,
-            "label_text": "剧情",
-            "comments_count": 0,
-            "category": [
-                "古风",
-                "百合"
-            ]
-        },
-        {
-            "description": "画风绝美的宫斗短篇集，讲述大周后宫佳人们的沉浮起落。紫奥城四四方方的天，框住了那些女子的一生，也框住了她们的心。或得势受宠，或落寞凄婉，都只为得一人真心。却是一入宫门深似海，从此萧郎是路人。【夏天岛授权/完结】",
-            "pic": "http: //f2.kkmh.com/image/161220/40kx8hu00.webp",
-            "itemType": 2,
-            "position": 3,
-            "title": "甄嬛传·叙花列",
-            "recommended_text": "宫斗漫画版",
-            "likes_count": 0,
-            "label_text": "宫斗",
-            "comments_count": 0,
-            "category": [
-                "完结",
-                "古风"
-            ]
-        },
-        {
-            "description": "云剑山庄的大小姐陆望心与皇子夏侯佑相爱，并以身相许，不料，登基后的夏侯佑竟把陆望心打入冷宫，并满门抄斩，绝望的陆望心却意外穿越回16岁，重获新生的陆望心从此踏上了复仇之路……【独家/每周五更新责编：33】",
-            "pic": "http: //f2.kkmh.com/image/161220/3312n1ujs.webp",
-            "itemType": 2,
-            "position": 4,
-            "title": "君与望心",
-            "recommended_text": "穿越复仇",
-            "likes_count": 0,
-            "label_text": "宫斗",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "古风"
-            ]
-        },
-        {
-            "description": "一朝穿越成以淫乱无度闻名的山阴公主，坐拥无数男宠，面对历史上必死的结局，她将如何改变命运？前路崎岖，暗涛汹涌，险象环生。天下为棋局，谁是博弈操棋人？（1-9话由猫君创作，后续由子涅创作）【出品：微漫画，总监制：天空，原作：天衣有风，漫画：凤囚凰漫画团队，制作人：咕噜咪，脚本：咕噜咪/条漫版本由快看APP独家提供连载中责编：漠漠】",
-            "pic": "http: //f2.kkmh.com/image/170303/4i3rulj0a.webp",
-            "itemType": 2,
-            "position": 5,
-            "title": "凤囚凰",
-            "recommended_text": "穿越改写命运",
-            "likes_count": 0,
-            "label_text": "穿越",
-            "comments_count": 0,
-            "category": [
-                "剧情",
-                "古风"
-            ]
-        },
-        {
-            "itemType": 0,
-            "title": "你可能错过的好作品"
-        },
-        {
-            "description": "不经意的四目相对，那个人就驻扎心里，想不顾一切，不在乎年龄，不在乎性别，不在乎差距，一直想和你在一起。这难道就是爱吗？【独家/更新中责编：林早上】",
-            "pic": "http: //f2.kkmh.com/image/170206/8ppul1q7n.webp",
-            "itemType": 2,
-            "position": 0,
-            "title": "亲爱的L",
-            "recommended_text": "真爱无法言说",
-            "likes_count": 0,
-            "label_text": "剧情",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "百合"
-            ]
-        },
-        {
-            "description": "我的男友是暖萌、超苏、还有点任性的熊猫先生，无条件宠溺我、无时无刻保护我。花式虐狗的恋爱日常，看完就能体会到，越是珍贵的感情越是平淡自然，带给无数人治愈与感动的走心漫画。【独家/完结责编：哑铃lynn】",
-            "pic": "http: //f2.kkmh.com/image/150609/bj01cfika.jpg",
-            "itemType": 2,
-            "position": 1,
-            "title": "我的panda男友",
-            "recommended_text": "治愈虐狗",
-            "likes_count": 0,
-            "label_text": "恋爱",
-            "comments_count": 0,
-            "category": [
-                "治愈",
-                "完结"
-            ]
-        },
-        {
-            "description": "一群百年前的民族英雄，在不堪回首的年代里，用生命为我们写过一页页英雄的故事。侵略者记住了他们的名字，而我们却将他们遗忘。【神北克授权/每周五更新责编：凹凸慢】",
-            "pic": "http: //f2.kkmh.com/image/150929/j9y41vfbi.jpg",
-            "itemType": 2,
-            "position": 2,
-            "title": "国魂",
-            "recommended_text": "侵略民族英雄",
-            "likes_count": 0,
-            "label_text": "剧情",
-            "comments_count": 0,
-            "category": [
-                "剧情",
-                "少年"
-            ]
-        },
-        {
-            "itemType": 0,
-            "title": "灵异烧脑"
-        },
-        {
-            "description": "短篇合集，讲述一场自来水污染导致人类出现的奇奇怪怪的疾病。细思极恐，高能慎入！看作者的脑洞能有多大！【责编：大王】",
-            "pic": "http: //f2.kkmh.com/image/170122/zbyfi7n6d.webp",
-            "itemType": 4,
-            "position": 0,
-            "title": "自来水之污",
-            "recommended_text": "精神污染短篇集。细思极恐，入坑需谨慎！",
-            "likes_count": 0,
-            "label_text": "脑洞",
-            "comments_count": 0,
-            "category": [
-                "灵异"
-            ]
-        },
-        {
-            "description": "如梦魇般缠绕的故事，脑洞大开、细思极恐，渗透人性的善与恶！中短篇故事合辑，在辗转反侧的深夜，带你体味心跳与寒颤！\r\n【责编：半石】",
-            "pic": "http: //f2.kkmh.com/image/170105/asfgawt6s.webp",
-            "itemType": 4,
-            "position": 1,
-            "title": "噩梦碎片",
-            "recommended_text": "如梦魇般缠绕的故事，细思极恐，渗透人性的善与恶！",
-            "likes_count": 0,
-            "label_text": "悬疑",
-            "comments_count": 0,
-            "category": [
-                "灵异"
-            ]
-        },
-        {
-            "description": "学校古老宿舍楼的天台上发生的离奇事件。女初中生修宜，某天晚上听到天台上有奇怪的声音，忍不住上去后竟看到难以置信的悬疑场景，不久之后意外死亡。隐藏在百年老校深处的秘密逐渐揭开······【每周五更新责编：牛奶】",
-            "pic": "http: //f2.kkmh.com/image/170110/cq1925dvq.webp",
-            "itemType": 4,
-            "position": 2,
-            "title": "传说系列——传说之天台",
-            "recommended_text": "传说之笔债、传说之天台。校园惊悚事件背后，是欲望的纠葛。",
-            "likes_count": 0,
-            "label_text": "惊悚",
-            "comments_count": 0,
-            "category": [
-                "灵异"
-            ]
-        },
-        {
-            "itemType": 0,
-            "title": "爆笑日常"
-        },
-        {
-            "description": "萌点槽点满满的奇幻爆笑漫！萌宠化身美男，与单身女主人的神经病日常~美男妩媚争宠、喝马桶水再亲亲主人、自以为帅气地舔粑粑······喜欢各种爆笑喷饭梗的你，这部作品一定不能错过！【独家/每周五更新，责编：林早上】",
-            "pic": "http: //f2.kkmh.com/image/161220/kjbr1czt9.webp",
-            "itemType": 2,
-            "position": 0,
-            "title": "别闹！我想静静……",
-            "recommended_text": "萌宠美男",
-            "likes_count": 0,
-            "label_text": "脑洞",
-            "comments_count": 0,
-            "category": [
-                "奇幻",
-                "爆笑"
-            ]
-        },
-        {
-            "description": "爆笑类总热度TOP3作品！无厘头老爸和叛逆少女，穷到吃土还互坑。单身父亲为了挣钱做了很多奇怪的工作，女儿在学校里也与同学们格格不入。反差萌父女的爆笑日常，让你笑到停不下来！拍！桌！推！荐！【独家/第一季完结责编：哑铃lynn】",
-            "pic": "http: //f2.kkmh.com/image/161220/7puqbt21d.webp",
-            "itemType": 2,
-            "position": 1,
-            "title": "贫穷父女",
-            "recommended_text": "互坑反差萌",
-            "likes_count": 0,
-            "label_text": "爆笑",
-            "comments_count": 0,
-            "category": [
-                "爆笑"
-            ]
-        },
-        {
-            "description": "一夜之间，我的被子变成了男人！？可是偏偏还只有我才能看到！有苦难言的我要怎么办？这是一个暴躁女主和神秘被子男的爆笑故事！【独家/每周五更新责编：M】",
-            "pic": "http: //f2.kkmh.com/image/161221/gcki0dhqv.webp",
-            "itemType": 2,
-            "position": 2,
-            "title": "别粘人！我的被子",
-            "recommended_text": "治愈变身",
-            "likes_count": 0,
-            "label_text": "爆笑",
-            "comments_count": 0,
-            "category": [
-                "奇幻",
-                "爆笑"
-            ]
-        },
-        {
-            "description": "爆笑类总榜热度TOP3经典热作！每天坑妹一万次的哥哥和暴走的妹妹相爱相杀，每一话让你笑到停不下来！搞笑又温情，画风轻松治愈！2016年度网络最火爆的搞笑漫画之一！【独家/连载中责编：林早上】",
-            "pic": "http: //f2.kkmh.com/image/161214/q2v4vj8pg.webp",
-            "itemType": 2,
-            "position": 3,
-            "title": "快把我哥带走",
-            "recommended_text": "短篇逗比兄妹",
-            "likes_count": 0,
-            "label_text": "爆笑",
-            "comments_count": 0,
-            "category": [
-                "日常",
-                "爆笑"
-            ]
-        },
-        {
-            "description": "奇幻类总热度TOP3作品！史上脾气最冲最不讲理年纪最大的少女漫女主角，77岁还要闹离婚？！离婚大戏正要上演，老夫妻却意外重返17岁，以年轻的肉体开始了一段崭新的生活……【独家/每周五更新责编：半石】",
-            "pic": "http: //f2.kkmh.com/image/161226/0fs1aoqkd.webp",
-            "itemType": 2,
-            "position": 4,
-            "title": "欧巴！我们离婚吧！",
-            "recommended_text": "老夫妻重返17岁",
-            "likes_count": 0,
-            "label_text": "剧情",
-            "comments_count": 0,
-            "category": [
-                "奇幻",
-                "爆笑"
-            ]
-        },
-        {
-            "description": "甜到腻的短梗漫，恩爱情侣间的逗比日常~只要恩爱秀得好，幸福生活少不了！【授权/每周日更新责编：思宇】",
-            "pic": "http: //f2.kkmh.com/image/161212/jtpuelox4.webp",
-            "itemType": 2,
-            "position": 5,
-            "title": "大圣和小夭",
-            "recommended_text": "短篇虐狗",
-            "likes_count": 0,
-            "label_text": "爆笑",
-            "comments_count": 0,
-            "category": [
-                "日常",
-                "爆笑"
-            ]
-        },
-        {
-            "itemType": 0,
-            "title": "少年热血"
-        },
-        {
-            "description": "超级怕鬼却要去当阎王是一种怎样的体验？使徒子全新搞怪力作，跟着胆小的阎王丫头，与各界神魔鬼怪过招。一惊一乍地练胆，还能爆笑不止，这部绝对能满足你！【授权/完结责编：牛奶】\r\n",
-            "pic": "http: //f2.kkmh.com/image/170122/pp8cku6wr.webp",
-            "itemType": 1,
-            "position": 0,
-            "title": "阎王不高兴",
-            "recommended_text": "胆小丫头上任阎王",
-            "likes_count": 16468919,
-            "label_text": "爆笑",
-            "comments_count": 421701,
-            "category": [
-                "爆笑",
-                "完结"
-            ]
-        },
-        {
-            "description": "不良少年变身暴力魔法少女【授权，责编：漠漠】",
-            "pic": "http: //f2.kkmh.com/image/161230/ntctpcm8q.webp",
-            "itemType": 1,
-            "position": 1,
-            "title": "暴烈少女",
-            "recommended_text": "不良少年变身魔法少女",
-            "likes_count": 2419510,
-            "label_text": "脑洞",
-            "comments_count": 45059,
-            "category": [
-                "奇幻",
-                "少年"
-            ]
-        },
-        {
-            "description": "短篇合集，讲述一场自来水污染导致人类出现的奇奇怪怪的疾病。细思极恐，高能慎入！看作者的脑洞能有多大！【责编：大王】",
-            "pic": "http: //f2.kkmh.com/image/170122/zbyfi7n6d.webp",
-            "itemType": 1,
-            "position": 2,
-            "title": "自来水之污",
-            "recommended_text": "自来水污染引发怪病",
-            "likes_count": 17340116,
-            "label_text": "脑洞",
-            "comments_count": 370622,
-            "category": [
-                "灵异"
-            ]
-        },
-        {
-            "description": "魔都是一个物欲横流，光怪陆离的超级都市，在这里，充斥着形形色色的人，除了人，还有各色奇异的生物也都伪装其中，他们在这座不夜城，每天都上演着神奇诡异的的故事，也许下一刻，它就在你身边发生。【独家/每周三更新责编：Zaku】",
-            "pic": "http: //f2.kkmh.com/image/170125/ul4gfzp8s.webp",
-            "itemType": 1,
-            "position": 3,
-            "title": "魔都诡事",
-            "recommended_text": "魔都之夜，诡事蔓延",
-            "likes_count": 1632172,
-            "label_text": "奇幻",
-            "comments_count": 25075,
-            "category": [
-                "奇幻"
-            ]
-        },
-        {
-            "itemType": 0,
-            "title": "完结佳作"
-        },
-        {
-            "description": "已死亡的灵异少年，靠服用药物维持灵魂延续对恋人的十年守护，后果却是无法投胎转世。知道真相的女友将会如何抉择？来世你要快点找到我！痴情虐恋，完结上映！【独家/完结责编：思宇】",
-            "pic": "http: //f2.kkmh.com/image/161220/1fchv36bg.webp",
-            "itemType": 2,
-            "position": 0,
-            "title": "零度恋人",
-            "recommended_text": "治愈虐恋",
-            "likes_count": 0,
-            "label_text": "治愈",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "完结"
-            ]
-        },
-        {
-            "description": "关于暗恋的那些小事。吕振宁暗恋青梅竹马的吕小渔，却只能默默接受她喜欢别人的事实；而无法觉察到自己一直被陪伴的吕小渔，也在为喜欢的学长暗暗坚持。青春悸动的纯爱萌芽，常常是在暗恋和付出中，让人感到默然心痛。我们之间的距离，是否真的遥不可及？【独家/双周二更新责编：33】",
-            "pic": "http: //f2.kkmh.com/image/161220/zrhgjiggz.webp",
-            "itemType": 2,
-            "position": 1,
-            "title": "遥不可及",
-            "recommended_text": "校园暗恋",
-            "likes_count": 0,
-            "label_text": "恋爱",
-            "comments_count": 0,
-            "category": [
-                "恋爱",
-                "校园"
-            ]
-        },
-        {
-            "description": "看五位花漾美男如何带着自己的女神逆袭成功，二次出道，成为最红的超级巨星！【独家/每周一更新责编：Zaku】",
-            "pic": "http: //f2.kkmh.com/image/161214/r0f7oxzfe.webp",
-            "itemType": 2,
-            "position": 2,
-            "title": "逆袭吧！我的爱豆",
-            "recommended_text": "恋爱出道",
-            "likes_count": 0,
-            "label_text": "恋爱",
-            "comments_count": 0,
-            "category": [
-                "日常",
-                "恋爱",
-                "都市"
-            ]
-        },
-        {
-            "description": "发生在民国的中短篇集。猎奇的设定、精巧的构思、烧脑的伏笔、反转的结局，能让你拍案叫绝的佳作。第一季已完结，喜欢推理类漫画的你不能错过！【独家责编：半石】",
-            "pic": "http: //f2.kkmh.com/image/161220/7tsm5zh6g.webp",
-            "itemType": 2,
-            "position": 3,
-            "title": "百诡夜谭",
-            "recommended_text": "推理短篇",
-            "likes_count": 0,
-            "label_text": "灵异",
-            "comments_count": 0,
-            "category": [
-                "灵异",
-                "完结"
-            ]
-        },
-        {
-            "description": "女扮男装的莫言汐一直在演艺圈中步步为营，可是小心谨慎的她话题率仍旧高达99%。直到遇见代理经纪人苏末，莫言汐的演艺生涯遭到了翻天覆地的变化……【独家/完结责编：思宇】",
-            "pic": "http: //f2.kkmh.com/image/161212/qic56e7m5.webp",
-            "itemType": 2,
-            "position": 4,
-            "title": "危险恋爱",
-            "recommended_text": "恋爱娱乐圈",
-            "likes_count": 0,
-            "label_text": "都市",
-            "comments_count": 0,
-            "category": [
-                "完结"
-            ]
-        },
-        {
-            "description": "我是神，一个隐藏在普通人类中的神！抖M神！【独家/完结，责编：半石】",
-            "pic": "http: //f2.kkmh.com/image/161220/uke49nxbr.webp",
-            "itemType": 2,
-            "position": 5,
-            "title": "抖M神",
-            "recommended_text": "爆笑取悦人类",
-            "likes_count": 0,
-            "label_text": "爆笑",
-            "comments_count": 0,
-            "category": [
-                "爆笑"
-            ]
-        }
-    ]
+    "result": {
+        "cartoons": [
+            {
+                "itemType": 0,
+                "title": "佳作精选"
+            },
+            {
+                "description": "催泪预警！青梅竹马的初恋即将死亡，而自己竟是帮他完成遗愿的志愿者。该怎么拯救这段刻骨铭心的爱情？【独家/完结  责编：半石】",
+                "pic": "http://f2.kkmh.com/image/170320/k3hcnjy5b.webp",
+                "itemType": 1,
+                "position": 0,
+                "title": "死亡告白倒计时",
+                "recommended_text": "告白即将死亡的美少年",
+                "likes_count": 16118047,
+                "label_text": "恋爱",
+                "comments_count": 269816,
+                "category": [
+                    "完结"
+                ]
+            },
+            {
+                "description": "一个英勇彪悍的女将军，一觉醒来变成了弱女子。面对皇帝的恩宠，更想要征战沙场，保家卫国？不过皇恩那么浩荡，她要怎样才能独善其身啊~【独家/每周二更新 责编：吴半石】",
+                "pic": "http://f2.kkmh.com/image/160729/jnbzgriq7.webp",
+                "itemType": 1,
+                "position": 1,
+                "title": "美人为将",
+                "recommended_text": "狂野美人不当皇后当将军",
+                "likes_count": 15618511,
+                "label_text": "剧情",
+                "comments_count": 410991,
+                "category": [
+                    "奇幻",
+                    "古风"
+                ]
+            },
+            {
+                "description": "我无可救药的爱上了邻居的男朋友，却发现，邻居竟然是个已婚的人，难道我喜欢的人是个男小三？【独家/周一更新  责编：林早上】",
+                "pic": "http://f2.kkmh.com/image/170120/ru3811cgi.webp",
+                "itemType": 1,
+                "position": 2,
+                "title": "黄色气球",
+                "recommended_text": "把爱情狠狠抢到手",
+                "likes_count": 2453229,
+                "label_text": "剧情",
+                "comments_count": 58557,
+                "label_text_color": "#ffffff",
+                "category": [
+                    "剧情",
+                    "治愈",
+                    "都市"
+                ]
+            },
+            {
+                "description": "覆盖全国范围的死刑投票短信突然出现，每个成年人都能决定重案嫌疑人的生死。当生杀大权交与平凡民众，正义与真理、规则与混沌将如何界定？【独家/每周四更新 责编：Zaku】",
+                "pic": "http://f2.kkmh.com/image/170106/hced9u4y2.webp",
+                "itemType": 1,
+                "position": 3,
+                "title": "国民死刑投票",
+                "recommended_text": "手机投票操控死刑",
+                "likes_count": 2215683,
+                "label_text": "剧情",
+                "comments_count": 48191,
+                "label_text_color": "#ffffff",
+                "category": [
+                    "剧情"
+                ]
+            },
+            {
+                "itemType": 0,
+                "title": "热门必看"
+            },
+            {
+                "description": "少男少女同住一个屋檐下，一同历经青春懵懂和成长烦恼，彼此鼓励、渐生爱意。画风温馨的超人气少女漫，体味青春悸动的纯爱萌芽，这一部就够！【独家/每周二更新，责编：牛奶】",
+                "pic": "http://f2.kkmh.com/image/161214/ic0pkr0jo.webp",
+                "itemType": 2,
+                "position": 0,
+                "title": "怦然心动",
+                "recommended_text": "纯情 悸动",
+                "likes_count": 0,
+                "label_text": "青春",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "剧情"
+                ]
+            },
+            {
+                "description": "高富帅暖男捡到只性别不明的软萌小狐狸。成年后，小狐狸为爱变身亭亭玉立的少女与他再续前缘。绝对萌翻你的治愈养成系，超甜！超萌！超虐狗！【独家/每周一更新 责编：33】",
+                "pic": "http://f2.kkmh.com/image/161212/p7p48tawz.webp",
+                "itemType": 2,
+                "position": 1,
+                "title": "捡到只小狐狸",
+                "recommended_text": "暖萌 治愈",
+                "likes_count": 0,
+                "label_text": "治愈",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "奇幻"
+                ]
+            },
+            {
+                "description": "全平台关注量第一名作品！他，戴上眼镜是沉默冷峻的高中生，摘下眼镜是浪荡不羁的夜店王子。女主同时爱上他们，想不到竟是同一人？画风超绝美，男主帅到令人窒息！引爆你的少女心！\r\n【独家/每周四更新  责编：33】",
+                "pic": "http://f2.kkmh.com/image/161220/1uljkyrx7.webp",
+                "itemType": 2,
+                "position": 2,
+                "title": "朝花惜时",
+                "recommended_text": "夜店男神 撩妹",
+                "likes_count": 0,
+                "label_text": "恋爱",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "校园"
+                ]
+            },
+            {
+                "description": "出轨俱乐部，人们在这里互相掩护偷情、共享伴侣。作品思想前卫大胆，家暴、婚内出轨、开放式婚姻...紧张刺激又不断反转的剧情让人欲罢不能！一辈子这么长，你会只爱一个人么？全平台关注量TOP3热作！2016年度掀起前所未有的超火爆讨论度，不可错过的伦理大作！\r\n 【完结 责编：半石】",
+                "pic": "http://f2.kkmh.com/image/161221/k2tclsjz0.webp",
+                "itemType": 2,
+                "position": 3,
+                "title": "密会情人——出轨俱乐部",
+                "recommended_text": "伦理 出轨",
+                "likes_count": 0,
+                "label_text": "剧情",
+                "comments_count": 0,
+                "category": [
+                    "成人",
+                    "都市"
+                ]
+            },
+            {
+                "description": "平台最受欢迎的短篇合集，作者以细腻的情绪刻画见长，引发读者极大共鸣！每个人都或多或少存在缺点，但是爱我们的人都一并接受了，感谢对方，一直都爱着不完美的我们。系列第二部《公主病的克星》有公主病的桃子在前段感情里伤痕累累，遇到了他的骑士，守护骄傲又敏感的她······【独家/每周六更新，责编：哑铃lynn】",
+                "pic": "http: //f2.kkmh.com/image/161220/8u6yj6s0k.webp",
+                "itemType": 2,
+                "position": 4,
+                "title": "公主病的克星-《感谢你是爱我的》系列2",
+                "recommended_text": "腹黑男傲娇女",
+                "likes_count": 0,
+                "label_text": "都市",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "都市"
+                ]
+            },
+            {
+                "description": "超人气偶像尹深，经常因为“脑残”行为在网络上招黑，智商常年不在线，犯着各种蠢萌的小错，粉丝却越来越多……人气偶像、明星组合、新人团体、各色娱乐圈人物纷纷登场，讲述偶像们爆笑逗比的日常与进阶之路！【授权/每周五更新责编：大萌】",
+                "pic": "http: //f2.kkmh.com/image/161220/ozfo5e0bo.webp",
+                "itemType": 2,
+                "position": 5,
+                "title": "头条都是他",
+                "recommended_text": "偶像追梦",
+                "likes_count": 0,
+                "label_text": "爆笑",
+                "comments_count": 0,
+                "category": [
+                    "日常",
+                    "爆笑"
+                ]
+            },
+            {
+                "itemType": 0,
+                "title": "新作上架"
+            },
+            {
+                "description": "儿时的意外邂逅，让新登基的19岁皇帝对长生不老的巫祝——阿萝念念不忘，再次相遇，年轻气盛的新皇是否能俘获阿萝的芳心？一段美妙的奇幻爱情故事即将上演【独家/每周六更新责编：M】",
+                "pic": "http: //f2.kkmh.com/image/170314/umkqy8ba8.webp",
+                "itemType": 3,
+                "position": 0,
+                "title": "巫祝少女",
+                "recommended_text": "英俊帝王恋上身世成谜的永生巫女！",
+                "likes_count": 678062,
+                "label_text": "奇幻",
+                "comments_count": 26704,
+                "category": [
+                    "恋爱",
+                    "奇幻"
+                ]
+            },
+            {
+                "description": "在百年鬼宅里拍摄还原鬼宅历史的电影是什么体验？！少女金小伊随着剧组入住这座神秘的月令馆后，一系列剧本之外的灵异事件竟陆续发生！黑夜已经到来，在历史中模糊了的悲剧，正在古宅真实重演！【独家/每周一更新责编：33】",
+                "pic": "http: //f2.kkmh.com/image/170317/u7vfbkarg.webp",
+                "itemType": 3,
+                "position": 1,
+                "title": "月令馆神秘事件",
+                "recommended_text": "在百年凶宅内拍恐怖片是什么体验？",
+                "likes_count": 227747,
+                "label_text": "悬疑",
+                "comments_count": 5597,
+                "category": [
+                    "剧情",
+                    "灵异"
+                ]
+            },
+            {
+                "description": "根据知名作家蓝淋同名小说改编。肖腾醉酒后醒来发现自己床上竟躺着一个绝世美男！而这个家伙还整天黏着自己！躲不开的他是烂桃花，还是天意？【独家/每周五更新责编：Zaku】",
+                "pic": "http: //f2.kkmh.com/image/170310/sx0bdh6rh.webp",
+                "itemType": 3,
+                "position": 2,
+                "title": "意外事故",
+                "recommended_text": "蓝淋同名小说改编，空巢总裁苦情追爱史！",
+                "likes_count": 366874,
+                "label_text": "都市",
+                "comments_count": 9345,
+                "category": [
+                    "彩虹",
+                    "都市"
+                ]
+            },
+            {
+                "itemType": 0,
+                "title": "少女纯爱"
+            },
+            {
+                "description": "校园类热度榜TOP3作品。“我忘记了所有数学公式，却忘不了你曾经爱我。”15岁的我们，坚信爱一个人就是一辈子，相爱的人永远都会在一起。但从没想过，能够遇见就已经足够幸运。这是一个长达八年的恋爱遗憾物语。【独家/每周日更新责编：思宇】",
+                "pic": "http: //f2.kkmh.com/image/161222/nj1al2bs8.webp",
+                "itemType": 2,
+                "position": 0,
+                "title": "你曾经爱我",
+                "recommended_text": "青春遗憾",
+                "likes_count": 0,
+                "label_text": "恋爱",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "剧情"
+                ]
+            },
+            {
+                "description": "对彼此的喜欢，终会让我们再度相遇，苏兹与奥利二人从小就相识，却被迫分离；高中相遇，却又产生误会；时隔多年两人重逢，爱情这次会悄然而至么……看似虐的情节，却甜蜜得让人少女心爆棚！青梅竹马？一见钟情？霸道帅哥爱上我？你想要的全都有！【独家/完结责编：哑铃lynn】",
+                "pic": "http: //f2.kkmh.com/image/170105/he88xurdp.webp",
+                "itemType": 2,
+                "position": 1,
+                "title": "恋爱！从今天开始",
+                "recommended_text": "纯情学长",
+                "likes_count": 0,
+                "label_text": "恋爱",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "完结"
+                ]
+            },
+            {
+                "description": "为了离家上学，18岁少女不得不跟青梅竹马展开同居生活，却没想到第一天就被对方壁咚强吻！这难道都是竹马的计划？心跳加速的18岁同居即将开始！【独家/每周二更新责编：M】\r\n",
+                "pic": "http: //f2.kkmh.com/image/170122/vbcyaje5o.webp",
+                "itemType": 2,
+                "position": 2,
+                "title": "18，要不要",
+                "recommended_text": "同床撩妹狂魔",
+                "likes_count": 0,
+                "label_text": "恋爱",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "校园"
+                ]
+            },
+            {
+                "description": "上线第一话空降周榜TOP1，让你脸红心跳的少女漫！舞台剧中扮演王子的青梅竹马，竟当众触碰了我的唇，那可是我保留多年的初吻啊！可是这柔软而温暖的触感，以及快要无法呼吸的感觉，是怎么回事？男主超会撩妹！少女们快到碗里来！【独家/每周五更新，责编：哑铃lynn】",
+                "pic": "http: //f2.kkmh.com/image/161214/e9k4pap5h.webp",
+                "itemType": 2,
+                "position": 3,
+                "title": "还有一秒吻上你",
+                "recommended_text": "强吻青梅竹马",
+                "likes_count": 0,
+                "label_text": "恋爱",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "校园"
+                ]
+            },
+            {
+                "description": "关于暗恋的那些小事。吕振宁暗恋青梅竹马的吕小渔，却只能默默接受她喜欢别人的事实；而无法觉察到自己一直被陪伴的吕小渔，也在为喜欢的学长暗暗坚持。青春悸动的纯爱萌芽，常常是在暗恋和付出中，让人感到默然心痛。我们之间的距离，是否真的遥不可及？【独家/双周二更新责编：33】",
+                "pic": "http: //f2.kkmh.com/image/161220/zrhgjiggz.webp",
+                "itemType": 2,
+                "position": 4,
+                "title": "遥不可及",
+                "recommended_text": "暗恋成长",
+                "likes_count": 0,
+                "label_text": "恋爱",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "校园"
+                ]
+            },
+            {
+                "description": "R&K是国内当红的二人偶像组合，RON(邱晨雨)走冷酷帅哥路线，KIMI（裕朗）却被塑造成聒噪谐星的形象。但裕朗的真正性格并非如此，他的儿时玩伴盈月一直在背后默默注视，希望好友能尽快突破这样的局面……【独家/双周四更新责编：半石】",
+                "pic": "http: //f2.kkmh.com/image/161222/6tdxwg0ug.webp",
+                "itemType": 2,
+                "position": 5,
+                "title": "伪装小丑的王子",
+                "recommended_text": "偶像成长",
+                "likes_count": 0,
+                "label_text": "恋爱",
+                "comments_count": 0,
+                "category": [
+                    "恋爱"
+                ]
+            },
+            {
+                "itemType": 0,
+                "title": "都市奇幻"
+            },
+            {
+                "description": "我无可救药的爱上了邻居的男朋友，却发现，邻居竟然是个已婚的人，难道我喜欢的人是个男小三？【独家/周一更新责编：林早上】",
+                "pic": "http: //f2.kkmh.com/image/170120/zjkqzf6br.webp",
+                "itemType": 2,
+                "position": 0,
+                "title": "黄色气球",
+                "recommended_text": "出轨伦理",
+                "likes_count": 0,
+                "label_text": "剧情",
+                "comments_count": 0,
+                "category": [
+                    "剧情",
+                    "治愈",
+                    "都市"
+                ]
+            },
+            {
+                "description": "无法说谎的男主，阴差阳错致使女主失恋又失业，而他竟是她的新上司？这部撩人总裁漫，集合霸道总裁的湿身诱惑、把妹大法、夺爱争斗，轰炸你的少女心！【独家/周一更新，责编：吴半石】\r\n",
+                "pic": "http: //f2.kkmh.com/image/161220/g48udmrks.webp",
+                "itemType": 2,
+                "position": 1,
+                "title": "不说谎恋人",
+                "recommended_text": "职场撩人总裁",
+                "likes_count": 0,
+                "label_text": "都市",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "都市"
+                ]
+            },
+            {
+                "description": "关于职场的都市浪漫故事，萧艾艾醉酒后意外与高中学生会长“同床共枕”，而他竟是公司总裁，暗中帮助职场中屡屡受挫的她。腹黑霸道总裁与倔强单纯女职员，职场与情场波折却浪漫的故事。【独家/每周四更新责编：林早上】",
+                "pic": "http: //f2.kkmh.com/image/161220/7mgt7gpdl.webp",
+                "itemType": 2,
+                "position": 2,
+                "title": "与爱有关",
+                "recommended_text": "职场霸道总裁",
+                "likes_count": 0,
+                "label_text": "都市",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "剧情"
+                ]
+            },
+            {
+                "description": "你相信世界上有这么一种能力吗？只要点击手机上的“反转”按钮，就可以改变别人的人生，然而代价却是……当女主播何希得到了这颗夏娃的苹果时，等待她的究竟是重生还是毁灭？【独家/每周日更新责编：半石】",
+                "pic": "http: //f2.kkmh.com/image/170123/33h3huvuw.webp",
+                "itemType": 2,
+                "position": 3,
+                "title": "反转现实",
+                "recommended_text": "App职场宫斗",
+                "likes_count": 0,
+                "label_text": "奇幻",
+                "comments_count": 0,
+                "category": [
+                    "奇幻",
+                    "都市"
+                ]
+            },
+            {
+                "description": "温柔贤惠的家庭主妇，竟是退隐江湖的黑帮女老大？！接连遭遇刺客袭击、老公被绑架后，娇妻秒变大佬，剽悍出战仇家！【独家/每周三更新责编：珉xi】\t",
+                "pic": "http: //f2.kkmh.com/image/161230/s4r0r3nn4.webp",
+                "itemType": 2,
+                "position": 4,
+                "title": "我的老婆是大佬",
+                "recommended_text": "黑帮女老大",
+                "likes_count": 0,
+                "label_text": "剧情",
+                "comments_count": 0,
+                "category": [
+                    "剧情"
+                ]
+            },
+            {
+                "description": "萌点槽点满满的奇幻爆笑漫！萌宠化身美男，与单身女主人的神经病日常~美男妩媚争宠、喝马桶水再亲亲主人、自以为帅气地舔粑粑······喜欢各种爆笑喷饭梗的你，这部作品一定不能错过！【独家/每周五更新，责编：林早上】",
+                "pic": "http: //f2.kkmh.com/image/161220/kjbr1czt9.webp",
+                "itemType": 2,
+                "position": 5,
+                "title": "别闹！我想静静……",
+                "recommended_text": "萌宠爆笑",
+                "likes_count": 0,
+                "label_text": "脑洞",
+                "comments_count": 0,
+                "category": [
+                    "奇幻",
+                    "爆笑"
+                ]
+            },
+            {
+                "itemType": 0,
+                "title": "一分钟轻松短漫"
+            },
+            {
+                "description": "我突然被呆萌小僵尸缠上还让其带回家！！！\r\n\r\n【授权/完结，责编：奶片侠】",
+                "pic": "http: //f2.kkmh.com/image/170122/t6cyyz6tk.webp",
+                "itemType": 4,
+                "position": 0,
+                "title": "唉？捡到一个小僵尸（第1季）",
+                "recommended_text": "我被呆萌小僵尸缠上，还把他带回家同居~",
+                "likes_count": 0,
+                "label_text": "治愈",
+                "comments_count": 0,
+                "category": [
+                    "治愈"
+                ]
+            },
+            {
+                "description": "比冰箱还冷的冷笑话，\r\n最爆笑的女神经带你进入蛇精病的世界！\r\n\r\n【授权责编：林早上】",
+                "pic": "http: //f2.kkmh.com/image/170123/mmyr4xeph.webp",
+                "itemType": 4,
+                "position": 1,
+                "title": "制冷少女的日常",
+                "recommended_text": "比冰箱还冷的冷笑话，最爆笑女神经带你进入蛇精病的世界！",
+                "likes_count": 0,
+                "label_text": "爆笑",
+                "comments_count": 0,
+                "category": [
+                    "日常",
+                    "爆笑"
+                ]
+            },
+            {
+                "description": "曾获得第十届金龙奖幽默漫画奖，伟大的安妮成名作。根据安妮和其男友王小明从相识到相爱的一系列真人真事改编。当女神经病遇上冷酷死鱼眼的男主，会产生什么样的化学物质？！绝对爆笑的治愈系漫画，最无节操的恋爱指南！【独家/第二季完结】",
+                "pic": "http: //f2.kkmh.com/image/161229/5zg8nzck5.webp",
+                "itemType": 4,
+                "position": 2,
+                "title": "安妮和王小明",
+                "recommended_text": "最无节操的恋爱指南！当女神经病遇上冷酷死鱼眼的他...",
+                "likes_count": 0,
+                "label_text": "恋爱",
+                "comments_count": 0,
+                "category": [
+                    "日常",
+                    "恋爱"
+                ]
+            },
+            {
+                "itemType": 0,
+                "title": "绝美古风"
+            },
+            {
+                "description": "古风类榜单总热度第一名！现代小萝莉家里从天而降了一个超帅的古代锦衣卫！缺失父母关怀的小萝莉把他当成了最亲近的人，竟要当他的童养媳？！表面傲娇冷漠挑剔的他，却越来越放不下这个小家伙...画风超级赞的养成系古风恋爱！\r\n【独家/每周三更新责编：哑铃lynn】",
+                "pic": "http: //f2.kkmh.com/image/161220/idr1o1juw.webp",
+                "itemType": 2,
+                "position": 2,
+                "title": "我男票是锦衣卫",
+                "recommended_text": "穿越养成系",
+                "likes_count": 0,
+                "label_text": "穿越",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "古风"
+                ]
+            },
+            {
+                "description": "聪慧霸气的掌门之女，青楼偶遇潇洒爱撩的名门公子，本以为是良缘缔结，却不想是孽缘交织······此情应是长相守，你若无“情”我便休。爆笑与虐心并存的古风恋爱，画风超唯美！【独家/每周六更新责编：半石】",
+                "pic": "http: //f2.kkmh.com/image/161220/0347s8oiy.webp",
+                "itemType": 2,
+                "position": 1,
+                "title": "盛世清曲",
+                "recommended_text": "仇人虐恋",
+                "likes_count": 0,
+                "label_text": "励志",
+                "comments_count": 0,
+                "category": [
+                    "古风"
+                ]
+            },
+            {
+                "description": "绝美桃花妖痴心守护小萝莉，人妖殊途，两人历经磨难。由一段剪不断理还乱的暧昧感情，引出了关于医术、爱情、友情以及前世今生的旷世奇缘！【独家/每周四更新，责编：Zaku】",
+                "pic": "http: //f2.kkmh.com/image/161220/meiczq4h1.webp",
+                "itemType": 2,
+                "position": 2,
+                "title": "桃花灼",
+                "recommended_text": "美妖萌系",
+                "likes_count": 0,
+                "label_text": "剧情",
+                "comments_count": 0,
+                "category": [
+                    "古风",
+                    "百合"
+                ]
+            },
+            {
+                "description": "画风绝美的宫斗短篇集，讲述大周后宫佳人们的沉浮起落。紫奥城四四方方的天，框住了那些女子的一生，也框住了她们的心。或得势受宠，或落寞凄婉，都只为得一人真心。却是一入宫门深似海，从此萧郎是路人。【夏天岛授权/完结】",
+                "pic": "http: //f2.kkmh.com/image/161220/40kx8hu00.webp",
+                "itemType": 2,
+                "position": 3,
+                "title": "甄嬛传·叙花列",
+                "recommended_text": "宫斗漫画版",
+                "likes_count": 0,
+                "label_text": "宫斗",
+                "comments_count": 0,
+                "category": [
+                    "完结",
+                    "古风"
+                ]
+            },
+            {
+                "description": "云剑山庄的大小姐陆望心与皇子夏侯佑相爱，并以身相许，不料，登基后的夏侯佑竟把陆望心打入冷宫，并满门抄斩，绝望的陆望心却意外穿越回16岁，重获新生的陆望心从此踏上了复仇之路……【独家/每周五更新责编：33】",
+                "pic": "http: //f2.kkmh.com/image/161220/3312n1ujs.webp",
+                "itemType": 2,
+                "position": 4,
+                "title": "君与望心",
+                "recommended_text": "穿越复仇",
+                "likes_count": 0,
+                "label_text": "宫斗",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "古风"
+                ]
+            },
+            {
+                "description": "一朝穿越成以淫乱无度闻名的山阴公主，坐拥无数男宠，面对历史上必死的结局，她将如何改变命运？前路崎岖，暗涛汹涌，险象环生。天下为棋局，谁是博弈操棋人？（1-9话由猫君创作，后续由子涅创作）【出品：微漫画，总监制：天空，原作：天衣有风，漫画：凤囚凰漫画团队，制作人：咕噜咪，脚本：咕噜咪/条漫版本由快看APP独家提供连载中责编：漠漠】",
+                "pic": "http: //f2.kkmh.com/image/170303/4i3rulj0a.webp",
+                "itemType": 2,
+                "position": 5,
+                "title": "凤囚凰",
+                "recommended_text": "穿越改写命运",
+                "likes_count": 0,
+                "label_text": "穿越",
+                "comments_count": 0,
+                "category": [
+                    "剧情",
+                    "古风"
+                ]
+            },
+            {
+                "itemType": 0,
+                "title": "你可能错过的好作品"
+            },
+            {
+                "description": "不经意的四目相对，那个人就驻扎心里，想不顾一切，不在乎年龄，不在乎性别，不在乎差距，一直想和你在一起。这难道就是爱吗？【独家/更新中责编：林早上】",
+                "pic": "http: //f2.kkmh.com/image/170206/8ppul1q7n.webp",
+                "itemType": 2,
+                "position": 0,
+                "title": "亲爱的L",
+                "recommended_text": "真爱无法言说",
+                "likes_count": 0,
+                "label_text": "剧情",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "百合"
+                ]
+            },
+            {
+                "description": "我的男友是暖萌、超苏、还有点任性的熊猫先生，无条件宠溺我、无时无刻保护我。花式虐狗的恋爱日常，看完就能体会到，越是珍贵的感情越是平淡自然，带给无数人治愈与感动的走心漫画。【独家/完结责编：哑铃lynn】",
+                "pic": "http: //f2.kkmh.com/image/150609/bj01cfika.jpg",
+                "itemType": 2,
+                "position": 1,
+                "title": "我的panda男友",
+                "recommended_text": "治愈虐狗",
+                "likes_count": 0,
+                "label_text": "恋爱",
+                "comments_count": 0,
+                "category": [
+                    "治愈",
+                    "完结"
+                ]
+            },
+            {
+                "description": "一群百年前的民族英雄，在不堪回首的年代里，用生命为我们写过一页页英雄的故事。侵略者记住了他们的名字，而我们却将他们遗忘。【神北克授权/每周五更新责编：凹凸慢】",
+                "pic": "http: //f2.kkmh.com/image/150929/j9y41vfbi.jpg",
+                "itemType": 2,
+                "position": 2,
+                "title": "国魂",
+                "recommended_text": "侵略民族英雄",
+                "likes_count": 0,
+                "label_text": "剧情",
+                "comments_count": 0,
+                "category": [
+                    "剧情",
+                    "少年"
+                ]
+            },
+            {
+                "itemType": 0,
+                "title": "灵异烧脑"
+            },
+            {
+                "description": "短篇合集，讲述一场自来水污染导致人类出现的奇奇怪怪的疾病。细思极恐，高能慎入！看作者的脑洞能有多大！【责编：大王】",
+                "pic": "http: //f2.kkmh.com/image/170122/zbyfi7n6d.webp",
+                "itemType": 4,
+                "position": 0,
+                "title": "自来水之污",
+                "recommended_text": "精神污染短篇集。细思极恐，入坑需谨慎！",
+                "likes_count": 0,
+                "label_text": "脑洞",
+                "comments_count": 0,
+                "category": [
+                    "灵异"
+                ]
+            },
+            {
+                "description": "如梦魇般缠绕的故事，脑洞大开、细思极恐，渗透人性的善与恶！中短篇故事合辑，在辗转反侧的深夜，带你体味心跳与寒颤！\r\n【责编：半石】",
+                "pic": "http: //f2.kkmh.com/image/170105/asfgawt6s.webp",
+                "itemType": 4,
+                "position": 1,
+                "title": "噩梦碎片",
+                "recommended_text": "如梦魇般缠绕的故事，细思极恐，渗透人性的善与恶！",
+                "likes_count": 0,
+                "label_text": "悬疑",
+                "comments_count": 0,
+                "category": [
+                    "灵异"
+                ]
+            },
+            {
+                "description": "学校古老宿舍楼的天台上发生的离奇事件。女初中生修宜，某天晚上听到天台上有奇怪的声音，忍不住上去后竟看到难以置信的悬疑场景，不久之后意外死亡。隐藏在百年老校深处的秘密逐渐揭开······【每周五更新责编：牛奶】",
+                "pic": "http: //f2.kkmh.com/image/170110/cq1925dvq.webp",
+                "itemType": 4,
+                "position": 2,
+                "title": "传说系列——传说之天台",
+                "recommended_text": "传说之笔债、传说之天台。校园惊悚事件背后，是欲望的纠葛。",
+                "likes_count": 0,
+                "label_text": "惊悚",
+                "comments_count": 0,
+                "category": [
+                    "灵异"
+                ]
+            },
+            {
+                "itemType": 0,
+                "title": "爆笑日常"
+            },
+            {
+                "description": "萌点槽点满满的奇幻爆笑漫！萌宠化身美男，与单身女主人的神经病日常~美男妩媚争宠、喝马桶水再亲亲主人、自以为帅气地舔粑粑······喜欢各种爆笑喷饭梗的你，这部作品一定不能错过！【独家/每周五更新，责编：林早上】",
+                "pic": "http: //f2.kkmh.com/image/161220/kjbr1czt9.webp",
+                "itemType": 2,
+                "position": 0,
+                "title": "别闹！我想静静……",
+                "recommended_text": "萌宠美男",
+                "likes_count": 0,
+                "label_text": "脑洞",
+                "comments_count": 0,
+                "category": [
+                    "奇幻",
+                    "爆笑"
+                ]
+            },
+            {
+                "description": "爆笑类总热度TOP3作品！无厘头老爸和叛逆少女，穷到吃土还互坑。单身父亲为了挣钱做了很多奇怪的工作，女儿在学校里也与同学们格格不入。反差萌父女的爆笑日常，让你笑到停不下来！拍！桌！推！荐！【独家/第一季完结责编：哑铃lynn】",
+                "pic": "http: //f2.kkmh.com/image/161220/7puqbt21d.webp",
+                "itemType": 2,
+                "position": 1,
+                "title": "贫穷父女",
+                "recommended_text": "互坑反差萌",
+                "likes_count": 0,
+                "label_text": "爆笑",
+                "comments_count": 0,
+                "category": [
+                    "爆笑"
+                ]
+            },
+            {
+                "description": "一夜之间，我的被子变成了男人！？可是偏偏还只有我才能看到！有苦难言的我要怎么办？这是一个暴躁女主和神秘被子男的爆笑故事！【独家/每周五更新责编：M】",
+                "pic": "http: //f2.kkmh.com/image/161221/gcki0dhqv.webp",
+                "itemType": 2,
+                "position": 2,
+                "title": "别粘人！我的被子",
+                "recommended_text": "治愈变身",
+                "likes_count": 0,
+                "label_text": "爆笑",
+                "comments_count": 0,
+                "category": [
+                    "奇幻",
+                    "爆笑"
+                ]
+            },
+            {
+                "description": "爆笑类总榜热度TOP3经典热作！每天坑妹一万次的哥哥和暴走的妹妹相爱相杀，每一话让你笑到停不下来！搞笑又温情，画风轻松治愈！2016年度网络最火爆的搞笑漫画之一！【独家/连载中责编：林早上】",
+                "pic": "http: //f2.kkmh.com/image/161214/q2v4vj8pg.webp",
+                "itemType": 2,
+                "position": 3,
+                "title": "快把我哥带走",
+                "recommended_text": "短篇逗比兄妹",
+                "likes_count": 0,
+                "label_text": "爆笑",
+                "comments_count": 0,
+                "category": [
+                    "日常",
+                    "爆笑"
+                ]
+            },
+            {
+                "description": "奇幻类总热度TOP3作品！史上脾气最冲最不讲理年纪最大的少女漫女主角，77岁还要闹离婚？！离婚大戏正要上演，老夫妻却意外重返17岁，以年轻的肉体开始了一段崭新的生活……【独家/每周五更新责编：半石】",
+                "pic": "http: //f2.kkmh.com/image/161226/0fs1aoqkd.webp",
+                "itemType": 2,
+                "position": 4,
+                "title": "欧巴！我们离婚吧！",
+                "recommended_text": "老夫妻重返17岁",
+                "likes_count": 0,
+                "label_text": "剧情",
+                "comments_count": 0,
+                "category": [
+                    "奇幻",
+                    "爆笑"
+                ]
+            },
+            {
+                "description": "甜到腻的短梗漫，恩爱情侣间的逗比日常~只要恩爱秀得好，幸福生活少不了！【授权/每周日更新责编：思宇】",
+                "pic": "http: //f2.kkmh.com/image/161212/jtpuelox4.webp",
+                "itemType": 2,
+                "position": 5,
+                "title": "大圣和小夭",
+                "recommended_text": "短篇虐狗",
+                "likes_count": 0,
+                "label_text": "爆笑",
+                "comments_count": 0,
+                "category": [
+                    "日常",
+                    "爆笑"
+                ]
+            },
+            {
+                "itemType": 0,
+                "title": "少年热血"
+            },
+            {
+                "description": "超级怕鬼却要去当阎王是一种怎样的体验？使徒子全新搞怪力作，跟着胆小的阎王丫头，与各界神魔鬼怪过招。一惊一乍地练胆，还能爆笑不止，这部绝对能满足你！【授权/完结责编：牛奶】\r\n",
+                "pic": "http: //f2.kkmh.com/image/170122/pp8cku6wr.webp",
+                "itemType": 1,
+                "position": 0,
+                "title": "阎王不高兴",
+                "recommended_text": "胆小丫头上任阎王",
+                "likes_count": 16468919,
+                "label_text": "爆笑",
+                "comments_count": 421701,
+                "category": [
+                    "爆笑",
+                    "完结"
+                ]
+            },
+            {
+                "description": "不良少年变身暴力魔法少女【授权，责编：漠漠】",
+                "pic": "http: //f2.kkmh.com/image/161230/ntctpcm8q.webp",
+                "itemType": 1,
+                "position": 1,
+                "title": "暴烈少女",
+                "recommended_text": "不良少年变身魔法少女",
+                "likes_count": 2419510,
+                "label_text": "脑洞",
+                "comments_count": 45059,
+                "category": [
+                    "奇幻",
+                    "少年"
+                ]
+            },
+            {
+                "description": "短篇合集，讲述一场自来水污染导致人类出现的奇奇怪怪的疾病。细思极恐，高能慎入！看作者的脑洞能有多大！【责编：大王】",
+                "pic": "http: //f2.kkmh.com/image/170122/zbyfi7n6d.webp",
+                "itemType": 1,
+                "position": 2,
+                "title": "自来水之污",
+                "recommended_text": "自来水污染引发怪病",
+                "likes_count": 17340116,
+                "label_text": "脑洞",
+                "comments_count": 370622,
+                "category": [
+                    "灵异"
+                ]
+            },
+            {
+                "description": "魔都是一个物欲横流，光怪陆离的超级都市，在这里，充斥着形形色色的人，除了人，还有各色奇异的生物也都伪装其中，他们在这座不夜城，每天都上演着神奇诡异的的故事，也许下一刻，它就在你身边发生。【独家/每周三更新责编：Zaku】",
+                "pic": "http: //f2.kkmh.com/image/170125/ul4gfzp8s.webp",
+                "itemType": 1,
+                "position": 3,
+                "title": "魔都诡事",
+                "recommended_text": "魔都之夜，诡事蔓延",
+                "likes_count": 1632172,
+                "label_text": "奇幻",
+                "comments_count": 25075,
+                "category": [
+                    "奇幻"
+                ]
+            },
+            {
+                "itemType": 0,
+                "title": "完结佳作"
+            },
+            {
+                "description": "已死亡的灵异少年，靠服用药物维持灵魂延续对恋人的十年守护，后果却是无法投胎转世。知道真相的女友将会如何抉择？来世你要快点找到我！痴情虐恋，完结上映！【独家/完结责编：思宇】",
+                "pic": "http: //f2.kkmh.com/image/161220/1fchv36bg.webp",
+                "itemType": 2,
+                "position": 0,
+                "title": "零度恋人",
+                "recommended_text": "治愈虐恋",
+                "likes_count": 0,
+                "label_text": "治愈",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "完结"
+                ]
+            },
+            {
+                "description": "关于暗恋的那些小事。吕振宁暗恋青梅竹马的吕小渔，却只能默默接受她喜欢别人的事实；而无法觉察到自己一直被陪伴的吕小渔，也在为喜欢的学长暗暗坚持。青春悸动的纯爱萌芽，常常是在暗恋和付出中，让人感到默然心痛。我们之间的距离，是否真的遥不可及？【独家/双周二更新责编：33】",
+                "pic": "http: //f2.kkmh.com/image/161220/zrhgjiggz.webp",
+                "itemType": 2,
+                "position": 1,
+                "title": "遥不可及",
+                "recommended_text": "校园暗恋",
+                "likes_count": 0,
+                "label_text": "恋爱",
+                "comments_count": 0,
+                "category": [
+                    "恋爱",
+                    "校园"
+                ]
+            },
+            {
+                "description": "看五位花漾美男如何带着自己的女神逆袭成功，二次出道，成为最红的超级巨星！【独家/每周一更新责编：Zaku】",
+                "pic": "http: //f2.kkmh.com/image/161214/r0f7oxzfe.webp",
+                "itemType": 2,
+                "position": 2,
+                "title": "逆袭吧！我的爱豆",
+                "recommended_text": "恋爱出道",
+                "likes_count": 0,
+                "label_text": "恋爱",
+                "comments_count": 0,
+                "category": [
+                    "日常",
+                    "恋爱",
+                    "都市"
+                ]
+            },
+            {
+                "description": "发生在民国的中短篇集。猎奇的设定、精巧的构思、烧脑的伏笔、反转的结局，能让你拍案叫绝的佳作。第一季已完结，喜欢推理类漫画的你不能错过！【独家责编：半石】",
+                "pic": "http: //f2.kkmh.com/image/161220/7tsm5zh6g.webp",
+                "itemType": 2,
+                "position": 3,
+                "title": "百诡夜谭",
+                "recommended_text": "推理短篇",
+                "likes_count": 0,
+                "label_text": "灵异",
+                "comments_count": 0,
+                "category": [
+                    "灵异",
+                    "完结"
+                ]
+            },
+            {
+                "description": "女扮男装的莫言汐一直在演艺圈中步步为营，可是小心谨慎的她话题率仍旧高达99%。直到遇见代理经纪人苏末，莫言汐的演艺生涯遭到了翻天覆地的变化……【独家/完结责编：思宇】",
+                "pic": "http: //f2.kkmh.com/image/161212/qic56e7m5.webp",
+                "itemType": 2,
+                "position": 4,
+                "title": "危险恋爱",
+                "recommended_text": "恋爱娱乐圈",
+                "likes_count": 0,
+                "label_text": "都市",
+                "comments_count": 0,
+                "category": [
+                    "完结"
+                ]
+            },
+            {
+                "description": "我是神，一个隐藏在普通人类中的神！抖M神！【独家/完结，责编：半石】",
+                "pic": "http: //f2.kkmh.com/image/161220/uke49nxbr.webp",
+                "itemType": 2,
+                "position": 5,
+                "title": "抖M神",
+                "recommended_text": "爆笑取悦人类",
+                "likes_count": 0,
+                "label_text": "爆笑",
+                "comments_count": 0,
+                "category": [
+                    "爆笑"
+                ]
+            }
+        ]
+    }
 }
