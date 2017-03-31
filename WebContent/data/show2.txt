@@ -2,6 +2,7 @@
     "state": 200,
     "message": "ok",
     "result": {
+        "haseMore":0,
         "cartoons": [
             {
                 "itemType": 0,
