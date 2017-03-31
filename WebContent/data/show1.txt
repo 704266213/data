@@ -2,6 +2,7 @@
     "state": 200,
     "message": "ok",
     "result": {
+        "haseMore":1,
         "banners": [
             {
                 "target_id": 22751,
