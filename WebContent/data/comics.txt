@@ -1,7 +1,7 @@
 {
     "state": 200,
     "message": "ok",
-    "data": {
+    "result": {
         "description": "重逢的两人身体交换，小心翼翼守护着秘密的同时，也查询着曾经不解的事情的真相……【完结，责编：哑铃lynn】",
         "title": "百合零距离",
         "comics_count": 25,
