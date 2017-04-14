@@ -1,0 +1,70 @@
+{
+    "state": 200,
+    "message": "ok",
+    "result": {
+        "guide_text": "",
+        "hot_word": [
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "公主病的克星-《感谢你是爱我的》系列2",
+                "target_id": 799
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "蝉女",
+                "target_id": 970
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "国民死刑投票",
+                "target_id": 1000
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "整容游戏",
+                "target_id": 544
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "反转现实",
+                "target_id": 1015
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "头牌名媛",
+                "target_id": 693
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "逆臣",
+                "target_id": 969
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "美人为将",
+                "target_id": 885
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "血之手",
+                "target_id": 973
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "传说系列——传说之天台",
+                "target_id": 943
+            }
+        ],
+        "since": 30
+    }
+}

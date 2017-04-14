@@ -1,0 +1,70 @@
+{
+    "state": 200,
+    "message": "ok",
+    "result": {
+        "guide_text": "",
+        "hot_word": [
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "牧灵",
+                "target_id": 1021
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "亲爱的L",
+                "target_id": 1022
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "魔王经纪人",
+                "target_id": 1012
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "18，要不要",
+                "target_id": 1007
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "双胞胎Twins",
+                "target_id": 1027
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "妖怪新娘",
+                "target_id": 1018
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "恶魔式情调",
+                "target_id": 1017
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "天真有邪",
+                "target_id": 1013
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "复仇要冷冷端上",
+                "target_id": 1009
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "照明商店",
+                "target_id": 1004
+            }
+        ],
+        "since": 10
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "state": 200,
+    "message": "ok",
+    "result": {
+        "guide_text": "",
+        "hot_word": [
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "早安，向日葵",
+                "target_id": 1038
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "雪男",
+                "target_id": 1005
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "密会情人——出轨俱乐部",
+                "target_id": 782
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "当神不让",
+                "target_id": 918
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "山神与小枣",
+                "target_id": 1033
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "芍药挽歌·冰霜花",
+                "target_id": 940
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "当校霸爱上学霸",
+                "target_id": 991
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "自来水之污",
+                "target_id": 699
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "甜美的咬痕",
+                "target_id": 906
+            },
+            {
+                "hot_word_source": "运营",
+                "action_type": 2,
+                "target_title": "还有一秒吻上你",
+                "target_id": 979
+            }
+        ],
+        "since": 20
+    }
+}

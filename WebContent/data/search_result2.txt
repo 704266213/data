@@ -1,0 +1,70 @@
+{
+    "state": 200,
+    "message": "ok",
+    "result": {
+        "guide_text": "",
+        "hot_word": [
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "朝花惜时",
+                "target_id": 616
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "怦然心动",
+                "target_id": 766
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "西街44号",
+                "target_id": 698
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "捡到只小狐狸",
+                "target_id": 711
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "零分偶像",
+                "target_id": 363
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "你的血很甜",
+                "target_id": 708
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "大圣和小夭",
+                "target_id": 793
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "河神大人求收养",
+                "target_id": 359
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "论不良少女调教方式",
+                "target_id": 667
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "枪爷讲诡事",
+                "target_id": 754
+            }
+        ],
+        "since": 40
+    }
+}

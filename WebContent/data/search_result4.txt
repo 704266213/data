@@ -1,0 +1,58 @@
+{
+    "state": 200,
+    "message": "ok",
+    "result": {
+        "guide_text": "",
+        "hot_word": [
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "薄荷之夏",
+                "target_id": 720
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "不说谎恋人",
+                "target_id": 688
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "头条都是他",
+                "target_id": 523
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "王爷你好贱",
+                "target_id": 907
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "阎王不高兴",
+                "target_id": 848
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "复仇高中2016",
+                "target_id": 717
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "解开你的制服",
+                "target_id": 983
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "入受三分",
+                "target_id": 914
+            }
+        ],
+        "since": 60
+    }
+}

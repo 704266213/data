@@ -1,0 +1,70 @@
+{
+    "state": 200,
+    "message": "ok",
+    "result": {
+        "guide_text": "",
+        "hot_word": [
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "女巨人也要谈恋爱",
+                "target_id": 835
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "狼族少年",
+                "target_id": 883
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "快把我哥带走",
+                "target_id": 116
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "同学关系？",
+                "target_id": 173
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "我男票是锦衣卫",
+                "target_id": 709
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "你曾经爱我",
+                "target_id": 882
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "今天开始做明星",
+                "target_id": 669
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "circle",
+                "target_id": 596
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "复仇高中",
+                "target_id": 311
+            },
+            {
+                "hot_word_source": "热搜",
+                "action_type": 2,
+                "target_title": "老师请解开我的习题",
+                "target_id": 988
+            }
+        ],
+        "since": 50
+    }
+}
