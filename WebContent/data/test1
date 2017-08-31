@@ -1,0 +1,126 @@
+{
+    "code": 200,
+    "msg": "success",
+    "result": [
+        {
+            "releaseDate": "2016-12-02 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/1.png",
+            "filmName": "航海王之黄金城",
+            "filmScore": "8.8",
+            "filmDesc": "航海新征程，路飞PK黄金帝",
+            "filmActor": "航海王一伙来到了世界上最大的娱乐城“大徳索罗号”。这里云集了全世界的富豪们，不眠不休地享受着各色表演和娱乐项目。"
+        },
+        {
+            "releaseDate": "2016-12-02 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/yourname.png",
+            "filmName": "你的名字",
+            "filmScore": "9.7",
+            "filmDesc": "最冷的冬天，最暖的相遇",
+            "filmActor": "神木隆之介,上白石萌音,长泽雅美,市原悦子,成田凌,悠木碧,石川界人,谷花音"
+        },
+        {
+            "releaseDate": "2016-12-02 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/2.png",
+            "filmName": "名侦探柯南：纯黑的恶梦",
+            "filmScore": "7.5",
+            "filmDesc": "柯南系列20年，反派全员出动",
+            "filmActor": "在某个漆黑的夜晚，瞄准了机密资料的间谍侵入日本警察机构。日本公安、FBI（美国联邦调查局）、黑衣组织及柯南等人围绕背叛与宿命而展开宿命对决。"
+        },
+        {
+            "releaseDate": "2016-12-02 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/3.png",
+            "filmName": "海洋奇缘",
+            "filmScore": "5.0",
+            "filmDesc": "土著少女携逗趣半神，扬帆历险",
+            "filmActor": "在2000年前的南太平洋小岛上，那里居住着一个爱好航海的波里尼西亚人部落，部落酋长有一个独生女叫摩瓦娜·瓦里基（奥伊伊·卡瓦略 配音），在祖母的鼓励下她一心想去探索临近的..."
+        },
+        {
+            "releaseDate": "2016-12-02 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/4.png",
+            "filmName": "从你的全世界路过",
+            "filmScore": "8.0",
+            "filmDesc": "我就在终点等你，结尾有彩蛋",
+            "filmActor": "邓超,白百何,杨洋,张天爱,岳云鹏,杜鹃,柳岩"
+        },
+        {
+            "releaseDate": "2016-12-06 周二",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/5.png",
+            "filmName": "夏威夷之恋",
+            "filmScore": "4.0",
+            "filmDesc": "陈妍希跨国恋，在记忆中重找你",
+            "filmActor": "陈妍希,姜成镐,亨利·伊安·库斯克,杰克逊·拉斯波恩"
+        },
+        {
+            "releaseDate": "2016-12-16 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/6.png",
+            "filmName": "长城",
+            "filmScore": "4.5",
+            "filmDesc": "由马特·达蒙饰演的欧洲雇佣兵威廉在被囚禁长城期间，发现了这一世间最大奇迹之一背后的惊人秘密。当一波又一波可怕的掠食生物将这座巨型城墙重重围困之时，",
+            "filmActor": "马特·达蒙,景甜,佩德罗·帕斯卡,威廉·达福,刘德华,张涵予"
+        },
+        {
+            "releaseDate": "2016-12-16 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/7.png",
+            "filmName": "夺路而逃",
+            "filmScore": "5.6",
+            "filmDesc": "张一山跨时空撩妹，山河cp有爱",
+            "filmActor": "张一山,朴河宣,何云伟,李菁"
+        },
+        {
+            "releaseDate": "2016-12-16 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/8.jpg",
+            "filmName": "三少爷的剑",
+            "filmScore": "7.7",
+            "filmDesc": "神剑山庄三少爷谢晓峰（林更新饰）惊才绝艳，十年来历经上千大战未尝一败，被天下人尊为“剑神”。传奇剑客燕十三（何润东饰）一直以谢晓峰为目标，苦修剑道，终于在生死边缘悟出惊天... ",
+            "filmActor": "林更新,何润东,蒋梦婕,江一燕"
+        },
+        {
+            "releaseDate": "2016-12-16 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/9.jpg",
+            "filmName": "佩小姐的奇幻城堡",
+            "filmScore": "8.7",
+            "filmDesc": "暗黑童话，怪奇孤儿展异能",
+            "filmActor": "爱娃·格林,阿沙·巴特菲尔德,塞缪尔·杰克逊"
+        },
+        {
+            "releaseDate": "2016-12-16 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/10.jpg",
+            "filmName": "阿拉丁与神灯",
+            "filmScore": "4.5",
+            "filmDesc": "笨贼入孩子窝，被迫编故事",
+            "filmActor": "凯文·亚当斯,让-保罗·卢弗,凡妮莎·吉德,奥黛丽·拉米,勒布吉尔·威廉,埃里克·朱多尔,亚瑟·本扎昆,朗兹·贝迪"
+        },
+        {
+            "releaseDate": "2016-12-16 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/11.jpg",
+            "filmName": "勇士之门",
+            "filmScore": "5.0",
+            "filmDesc": "热爱游戏的男孩机缘巧合下误入异世界，随即便被卷入风暴漩涡的中心：与身负国运的公主（倪妮 饰）为友，与身手高强的武士（赵又廷 饰）为伴，与凶狠残暴的胡王为敌，前路上胡人大营..",
+            "filmActor": "赵又廷,倪妮,尤赖亚·谢尔顿,吴镇宇,戴夫·巴蒂斯塔"
+        },
+        {
+            "releaseDate": "2016-12-16 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/12.jpg",
+            "filmName": "神奇动物在哪里",
+            "filmScore": "9.0",
+            "filmDesc": "哈利波特外传，魔法世界来袭",
+            "filmActor": "埃迪·雷德梅恩,凯瑟琳·沃特森,艾莉森·苏朵儿,丹·福勒"
+        },
+        {
+            "releaseDate": "2016-12-16 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/13.jpg",
+            "filmName": "冲天火",
+            "filmScore": "6.0",
+            "filmDesc": "两岸三地合拍，激战香港夺秘药",
+            "filmActor": "吴彦祖,张若昀,张静初,郭采洁,张孝全,樊光耀,黎耀祥,姜皓文,张兆辉,英巴图"
+        },
+        {
+            "releaseDate": "2016-12-16 周五",
+            "filmUrl": "https://raw.githubusercontent.com/704266213/data/master/WebContent/img/14.jpg",
+            "filmName": "食人岛",
+            "filmScore": "6.5",
+            "filmDesc": "诅咒岛屿，食人生物",
+            "filmActor": "娄淇,杨凯迪,谢波,吴荻,杨迪,金晶"
+        }
+    ]
+}
