@@ -1,6 +1,6 @@
 {
-    "code": 200,
-    "msg": "success",
+    "state": 200,
+    "message": "success",
     "result": {
         "userName": "jaty",
         "sex": 1,
